@@ -1,0 +1,41 @@
+genero_id,nombre,descripcion,subgeneros_count,canciones_count
+1,electronica,Música producida principalmente con instrumentos electrónicos y sintetizadores,5,182
+2,latin,"Música con raíces latinoamericanas incluyendo reggaetón, salsa y cumbia",5,183
+3,pop,Música popular contemporánea con melodías pegadizas y estructuras accesibles,5,182
+4,flamenco,"Arte musical español con guitarra, cante y palmas",4,196
+5,rock,"Género basado en guitarras eléctricas, batería y estructuras de verso-estribillo",5,198
+6,indie,Música independiente con enfoque artístico y producción alternativa,5,268
+7,r&b,"Rhythm and blues, fusión de soul, funk y pop con influencias afroamericanas",4,226
+8,reggaeton,Género urbano latino con ritmo de dembow y influencias del dancehall,4,158
+9,clasica,Música de tradición occidental con composiciones orquestales y de cámara,4,187
+10,rap,Subgénero del hip-hop centrado en la lírica hablada rítmicamente,5,220
+11,trance,Subgénero musical con características sonoras de trance,4,0
+12,progressive house,Subgénero musical con características sonoras de progressive house,5,0
+13,nu metal,Subgénero musical con características sonoras de nu metal,3,0
+14,post-rock,Subgénero musical con características sonoras de post-rock,5,0
+15,shoegaze,Subgénero musical con características sonoras de shoegaze,5,0
+16,trip-hop,Subgénero musical con características sonoras de trip-hop,2,0
+17,chillwave,Subgénero musical con características sonoras de chillwave,3,0
+18,vaporwave,Subgénero musical con características sonoras de vaporwave,3,0
+19,math rock,Subgénero musical con características sonoras de math rock,3,0
+20,emo,Subgénero musical con características sonoras de emo,5,0
+21,hardcore,Subgénero musical con características sonoras de hardcore,4,0
+22,industrial,Subgénero musical con características sonoras de industrial,3,0
+23,noise,Subgénero musical con características sonoras de noise,5,0
+24,grime,Subgénero musical con características sonoras de grime,2,0
+25,garage,Subgénero musical con características sonoras de garage,4,0
+26,psytrance,Subgénero musical con características sonoras de psytrance,2,0
+27,minimal techno,Subgénero musical con características sonoras de minimal techno,4,0
+28,deep house,Subgénero musical con características sonoras de deep house,5,0
+29,future bass,Subgénero musical con características sonoras de future bass,1,0
+30,phonk,Subgénero musical con características sonoras de phonk,4,0
+31,corrido tumbado,Subgénero musical con características sonoras de corrido tumbado,2,0
+32,dembow,Subgénero musical con características sonoras de dembow,5,0
+33,sertanejo,Subgénero musical con características sonoras de sertanejo,4,0
+34,urbano,Subgénero musical con características sonoras de urbano,1,0
+35,tropical house,Subgénero musical con características sonoras de tropical house,1,0
+36,melodic dubstep,Subgénero musical con características sonoras de melodic dubstep,3,0
+37,hardstyle,Subgénero musical con características sonoras de hardstyle,3,0
+38,breakbeat,Subgénero musical con características sonoras de breakbeat,2,0
+39,chiptune,Subgénero musical con características sonoras de chiptune,4,0
+40,city pop,Subgénero musical con características sonoras de city pop,4,0

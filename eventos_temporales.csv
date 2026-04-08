@@ -1,0 +1,201 @@
+evento_id,cancion_id,tipo_evento,fecha,descripcion
+1,1127,playlist,2022-08-17,Añadida a playlist editorial de Spotify
+2,1460,playlist,2023-07-18,Portada de playlist New Music Friday
+3,861,colaboracion,2022-10-13,Colaboración con artista internacional
+4,1295,playlist,2022-06-28,Seleccionada para playlist Release Radar masiva
+5,1131,concierto,2022-03-07,Presentación en festival masivo
+6,1096,lanzamiento,2023-03-24,Estreno mundial del single
+7,1725,premio,2022-02-24,Reconocimiento disco de platino
+8,1045,colaboracion,2024-05-09,Featuring con artista emergente
+9,1639,concierto,2023-07-24,Presentación en festival masivo
+10,122,media,2022-11-23,Feature en programa de radio nacional
+11,467,concierto,2023-11-28,Tour europeo con aforo completo
+12,1239,colaboracion,2023-03-17,Remix oficial con DJ reconocido
+13,331,lanzamiento,2022-07-09,Publicación del EP
+14,1483,lanzamiento,2024-01-06,Lanzamiento del álbum completo
+15,88,premio,2023-06-26,Nominación a Grammy Latino
+16,1397,playlist,2024-07-29,Seleccionada para playlist Release Radar masiva
+17,1124,lanzamiento,2024-02-15,Lanzamiento oficial del sencillo
+18,872,premio,2023-08-24,Certificación disco de oro
+19,1688,premio,2024-01-11,Reconocimiento disco de platino
+20,131,colaboracion,2022-05-23,Colaboración con artista internacional
+21,1686,playlist,2023-04-12,Incluida en playlist Top Hits Global
+22,1333,lanzamiento,2023-04-22,Lanzamiento oficial del sencillo
+23,770,concierto,2023-07-24,Actuación en premios musicales
+24,344,playlist,2024-01-18,Portada de playlist New Music Friday
+25,1516,viral,2023-12-29,Meme viral impulsa reproducciones
+26,1438,playlist,2023-07-01,Añadida a playlist editorial de Spotify
+27,806,premio,2022-12-17,Reconocimiento disco de platino
+28,386,playlist,2023-05-17,Portada de playlist New Music Friday
+29,1216,concierto,2024-02-17,Tour europeo con aforo completo
+30,956,playlist,2023-03-26,Incluida en playlist Top Hits Global
+31,277,media,2022-04-25,Canción usada en campaña publicitaria
+32,1185,media,2022-03-07,Entrevista viral del artista en TV
+33,460,concierto,2023-07-03,Presentación en festival masivo
+34,1338,colaboracion,2023-10-07,Featuring con artista emergente
+35,22,playlist,2024-10-19,Destacada en Radar de Novidades
+36,253,playlist,2024-07-28,Portada de playlist New Music Friday
+37,748,viral,2022-10-13,Meme viral impulsa reproducciones
+38,857,playlist,2023-06-23,Seleccionada para playlist Release Radar masiva
+39,1585,concierto,2024-03-28,Tour europeo con aforo completo
+40,475,colaboracion,2022-10-11,Colaboración crossover entre géneros
+41,1083,concierto,2022-07-06,Presentación en festival masivo
+42,511,media,2022-08-13,Canción usada en campaña publicitaria
+43,1706,playlist,2022-11-24,Destacada en Radar de Novidades
+44,1500,premio,2022-05-11,Premio a mejor canción del año
+45,700,concierto,2024-08-16,Set en vivo en festival Primavera Sound
+46,976,viral,2022-01-24,Tendencia viral en TikTok
+47,1807,playlist,2023-07-01,Incluida en playlist Top Hits Global
+48,190,lanzamiento,2023-08-25,Publicación del EP
+49,958,colaboracion,2024-07-18,Colaboración con artista internacional
+50,687,playlist,2023-06-24,Seleccionada para playlist Release Radar masiva
+51,958,media,2023-01-01,Canción seleccionada para película
+52,563,lanzamiento,2023-09-04,Lanzamiento exclusivo en Spotify
+53,1900,premio,2023-02-12,Ganador de premio MTV
+54,1591,viral,2022-11-27,Trend en YouTube Shorts
+55,1268,media,2024-12-22,Aparición en banda sonora de serie Netflix
+56,832,premio,2023-10-26,Premio a mejor canción del año
+57,1529,lanzamiento,2022-08-18,Lanzamiento del álbum completo
+58,1155,media,2023-09-22,Canción usada en campaña publicitaria
+59,1509,lanzamiento,2023-05-09,Debut del single en plataformas digitales
+60,1843,lanzamiento,2022-06-25,Lanzamiento exclusivo en Spotify
+61,647,concierto,2022-05-22,Set en vivo en festival Primavera Sound
+62,21,media,2022-09-15,Canción usada en campaña publicitaria
+63,841,playlist,2024-08-31,Seleccionada para playlist Release Radar masiva
+64,167,colaboracion,2023-06-27,Colaboración crossover entre géneros
+65,1298,media,2024-05-16,Canción usada en campaña publicitaria
+66,388,premio,2023-02-16,Certificación disco de oro
+67,601,viral,2024-03-28,Challenge en redes sociales
+68,316,concierto,2024-11-25,Actuación en premios musicales
+69,14,lanzamiento,2023-05-23,Estreno mundial del single
+70,242,lanzamiento,2023-11-24,Lanzamiento oficial del sencillo
+71,777,premio,2023-04-17,Reconocimiento disco de platino
+72,1370,colaboracion,2022-01-15,Colaboración con artista internacional
+73,565,playlist,2022-05-01,Portada de playlist New Music Friday
+74,898,lanzamiento,2022-03-06,Lanzamiento del álbum completo
+75,1364,lanzamiento,2024-11-18,Estreno mundial del single
+76,92,viral,2024-09-21,Meme viral impulsa reproducciones
+77,1391,premio,2022-09-28,Certificación disco de oro
+78,956,premio,2024-08-26,Ganador de premio MTV
+79,1479,media,2024-08-26,Documental sobre el artista estrena
+80,1452,colaboracion,2022-07-13,Colaboración con artista internacional
+81,509,playlist,2024-06-01,Incluida en playlist Top Hits Global
+82,776,concierto,2024-04-21,Actuación en premios musicales
+83,1967,media,2022-04-21,Feature en programa de radio nacional
+84,35,playlist,2022-07-21,Añadida a playlist editorial de Spotify
+85,206,concierto,2023-11-26,Presentación en festival masivo
+86,1105,colaboracion,2023-01-28,Featuring con artista emergente
+87,1956,premio,2024-07-07,Ganador de premio MTV
+88,1586,concierto,2023-01-11,Tour europeo con aforo completo
+89,1896,concierto,2023-05-27,Presentación en festival masivo
+90,1412,concierto,2022-07-20,Presentación en festival masivo
+91,1026,playlist,2022-01-31,Añadida a playlist editorial de Spotify
+92,1022,media,2023-04-30,Canción usada en campaña publicitaria
+93,1414,concierto,2024-09-21,Actuación en premios musicales
+94,566,colaboracion,2024-04-01,Colaboración con artista internacional
+95,1130,colaboracion,2024-02-16,Colaboración con artista internacional
+96,1796,concierto,2023-06-28,Actuación en premios musicales
+97,1846,viral,2024-05-16,Trend en YouTube Shorts
+98,1501,playlist,2024-09-23,Portada de playlist New Music Friday
+99,703,colaboracion,2023-08-31,Featuring con artista emergente
+100,402,lanzamiento,2022-05-05,Lanzamiento exclusivo en Spotify
+101,730,viral,2022-04-28,Tendencia viral en TikTok
+102,1580,premio,2024-09-03,Reconocimiento disco de platino
+103,162,media,2024-12-23,Canción usada en campaña publicitaria
+104,202,lanzamiento,2024-11-06,Lanzamiento oficial del sencillo
+105,1982,media,2023-01-16,Aparición en banda sonora de serie Netflix
+106,996,premio,2022-05-20,Certificación disco de oro
+107,270,media,2023-04-27,Documental sobre el artista estrena
+108,1887,lanzamiento,2023-05-20,Debut del single en plataformas digitales
+109,816,premio,2022-03-23,Reconocimiento disco de platino
+110,1295,lanzamiento,2024-05-08,Lanzamiento exclusivo en Spotify
+111,456,premio,2024-12-06,Nominación a Latin Billboard
+112,1486,viral,2023-02-23,Challenge en redes sociales
+113,1751,colaboracion,2023-06-28,Dueto especial en versión acústica
+114,1276,colaboracion,2023-09-07,Dueto especial en versión acústica
+115,1017,viral,2022-05-29,Tendencia viral en TikTok
+116,1726,concierto,2022-07-24,Presentación en festival masivo
+117,296,premio,2023-03-13,Reconocimiento disco de platino
+118,1749,viral,2022-09-29,Challenge en redes sociales
+119,720,lanzamiento,2023-05-16,Lanzamiento del álbum completo
+120,1773,viral,2022-11-20,Audio viral en Instagram Reels
+121,338,media,2023-09-12,Canción seleccionada para película
+122,879,media,2024-12-19,Aparición en banda sonora de serie Netflix
+123,1077,playlist,2023-09-06,Añadida a playlist editorial de Spotify
+124,792,colaboracion,2023-06-26,Colaboración con artista internacional
+125,1946,lanzamiento,2022-11-15,Lanzamiento del álbum completo
+126,217,viral,2023-03-08,Challenge en redes sociales
+127,764,colaboracion,2023-06-25,Colaboración crossover entre géneros
+128,188,concierto,2023-05-30,Presentación en festival masivo
+129,380,lanzamiento,2024-05-17,Lanzamiento del álbum completo
+130,493,lanzamiento,2022-01-08,Lanzamiento del álbum completo
+131,1065,media,2022-09-25,Feature en programa de radio nacional
+132,1181,viral,2022-11-27,Audio viral en Instagram Reels
+133,15,premio,2024-05-25,Reconocimiento disco de platino
+134,1837,lanzamiento,2022-08-18,Lanzamiento oficial del sencillo
+135,65,playlist,2022-11-02,Seleccionada para playlist Release Radar masiva
+136,1881,lanzamiento,2024-01-27,Debut del single en plataformas digitales
+137,1863,premio,2022-10-31,Premio a mejor canción del año
+138,521,colaboracion,2022-03-27,Remix oficial con DJ reconocido
+139,1368,viral,2022-03-23,Challenge en redes sociales
+140,1153,colaboracion,2023-05-27,Colaboración con artista internacional
+141,648,viral,2024-04-12,Trend en YouTube Shorts
+142,1496,playlist,2022-11-13,Portada de playlist New Music Friday
+143,1087,media,2022-11-29,Canción usada en campaña publicitaria
+144,1163,concierto,2022-02-20,Concierto sold-out en estadio
+145,1523,playlist,2023-11-12,Destacada en Radar de Novidades
+146,593,media,2023-05-24,Entrevista viral del artista en TV
+147,392,colaboracion,2022-08-10,Dueto especial en versión acústica
+148,1699,media,2022-03-21,Documental sobre el artista estrena
+149,419,colaboracion,2023-02-13,Dueto especial en versión acústica
+150,289,viral,2023-09-18,Meme viral impulsa reproducciones
+151,379,colaboracion,2022-02-18,Featuring con artista emergente
+152,1797,concierto,2023-11-04,Tour europeo con aforo completo
+153,1514,media,2022-05-23,Entrevista viral del artista en TV
+154,231,viral,2024-11-09,Audio viral en Instagram Reels
+155,1018,playlist,2023-11-10,Añadida a playlist editorial de Spotify
+156,41,lanzamiento,2023-06-19,Estreno mundial del single
+157,1052,premio,2023-06-28,Nominación a Grammy Latino
+158,135,lanzamiento,2024-06-08,Lanzamiento del álbum completo
+159,201,playlist,2023-10-05,Destacada en Radar de Novidades
+160,1864,premio,2024-11-13,Nominación a Grammy Latino
+161,780,concierto,2023-01-25,Tour europeo con aforo completo
+162,930,lanzamiento,2024-06-12,Lanzamiento oficial del sencillo
+163,1057,premio,2023-02-08,Nominación a Latin Billboard
+164,1072,concierto,2022-05-24,Concierto benéfico especial
+165,503,viral,2023-10-05,Tendencia viral en TikTok
+166,407,playlist,2023-09-08,Seleccionada para playlist Release Radar masiva
+167,1598,viral,2024-04-16,Challenge en redes sociales
+168,1752,concierto,2023-08-29,Set en vivo en festival Primavera Sound
+169,805,colaboracion,2023-01-28,Dueto especial en versión acústica
+170,99,playlist,2024-02-16,Portada de playlist New Music Friday
+171,684,premio,2023-09-09,Premio a mejor canción del año
+172,1896,premio,2022-01-01,Nominación a Latin Billboard
+173,726,viral,2023-03-07,Audio viral en Instagram Reels
+174,1571,media,2023-10-22,Documental sobre el artista estrena
+175,961,concierto,2024-06-24,Concierto benéfico especial
+176,1763,colaboracion,2024-11-12,Dueto especial en versión acústica
+177,613,media,2022-12-14,Feature en programa de radio nacional
+178,1967,lanzamiento,2023-08-05,Debut del single en plataformas digitales
+179,1486,playlist,2023-11-18,Añadida a playlist editorial de Spotify
+180,643,media,2023-04-27,Feature en programa de radio nacional
+181,1793,viral,2023-04-06,Meme viral impulsa reproducciones
+182,1029,colaboracion,2022-02-20,Colaboración con artista internacional
+183,1242,colaboracion,2024-08-31,Colaboración crossover entre géneros
+184,503,media,2022-05-30,Documental sobre el artista estrena
+185,767,concierto,2023-02-03,Concierto benéfico especial
+186,398,playlist,2024-02-26,Destacada en Radar de Novidades
+187,871,concierto,2023-05-15,Concierto sold-out en estadio
+188,795,playlist,2022-01-12,Añadida a playlist editorial de Spotify
+189,393,media,2024-05-20,Canción usada en campaña publicitaria
+190,207,colaboracion,2024-11-26,Dueto especial en versión acústica
+191,1039,lanzamiento,2023-05-26,Lanzamiento oficial del sencillo
+192,1882,concierto,2022-10-01,Actuación en premios musicales
+193,1578,playlist,2024-12-23,Seleccionada para playlist Release Radar masiva
+194,892,premio,2023-10-12,Premio a mejor canción del año
+195,1485,premio,2024-10-30,Premio a mejor canción del año
+196,1715,media,2024-07-02,Canción usada en campaña publicitaria
+197,1599,playlist,2024-08-30,Destacada en Radar de Novidades
+198,864,viral,2023-05-22,Challenge en redes sociales
+199,743,media,2024-12-03,Documental sobre el artista estrena
+200,1265,playlist,2023-05-05,Incluida en playlist Top Hits Global

@@ -1,0 +1,501 @@
+playlist_id,nombre_playlist,creador,tipo,num_seguidores,fecha_creacion,genero_dominante
+1,Indie Rock Español #1,editorial,editorial,1451,2023-02-07,pop
+2,Electronic Dreams #2,4706,personal,149,2023-02-03,reggaeton
+3,Indie Rock Español #3,4047,personal,105,2022-03-26,pop
+4,Fiesta Total #4,editorial,personal,1839,2022-12-16,indie
+5,Flamenco Moderno #5,1254,personal,27,2022-11-27,reggaeton
+6,Reggaeton 24/7 #6,2184,colaborativa,80,2021-01-24,rock
+7,R&B Vibes #7,1409,personal,75,2021-03-05,indie
+8,Indie Rock Español #8,editorial,personal,284,2022-03-23,flamenco
+9,Latin Hits #9,1820,editorial,15,2023-05-19,flamenco
+10,Relax & Chill #10,1430,colaborativa,34,2021-12-28,latin
+11,Relax & Chill #11,602,colaborativa,165,2021-01-12,latin
+12,Electronic Dreams #12,editorial,personal,114,2021-07-07,electronica
+13,Rock Alternativo #13,2027,personal,222,2023-04-25,latin
+14,Reggaeton 24/7 #14,780,personal,8,2022-08-16,latin
+15,Éxitos de los 90s #15,2135,editorial,33,2023-07-25,clasica
+16,Lo Mejor de Hoy #16,editorial,personal,362,2023-04-14,r&b
+17,Éxitos del Momento #17,4077,colaborativa,27,2023-10-02,flamenco
+18,R&B Vibes #18,4266,personal,158,2023-07-16,flamenco
+19,Fiesta Total #19,4554,personal,49,2023-06-26,r&b
+20,Flamenco Moderno #20,1246,editorial,17,2021-09-22,electronica
+21,Electronic Dreams #21,1441,personal,49,2023-11-07,pop
+22,Metal Energy #22,1696,personal,30,2023-04-05,electronica
+23,Electronic Dreams #23,3106,personal,143,2022-07-12,pop
+24,Hip-Hop Urbano #24,editorial,editorial,435,2022-08-27,latin
+25,Hip-Hop Urbano #25,3281,personal,43,2022-05-05,r&b
+26,Vibes Nocturnas #26,621,colaborativa,94,2023-07-08,r&b
+27,Metal Energy #27,1543,personal,159,2023-04-05,indie
+28,Rock Alternativo #28,4372,editorial,80,2022-08-06,r&b
+29,Lo Mejor de Hoy #29,editorial,personal,2741,2023-12-12,indie
+30,Lo Mejor de Hoy #30,286,editorial,31,2022-06-30,reggaeton
+31,Latin Hits #31,editorial,personal,1446,2023-10-09,electronica
+32,Éxitos de los 90s #32,4120,personal,4,2022-05-22,latin
+33,Relax & Chill #33,283,editorial,45,2022-02-10,clasica
+34,Lo Mejor de Hoy #34,4198,personal,0,2023-03-26,flamenco
+35,Fiesta Total #35,346,personal,15,2022-10-07,rap
+36,Relax & Chill #36,2719,personal,54,2023-10-05,rock
+37,Baladas Románticas #37,307,personal,9,2023-03-12,electronica
+38,Rock Alternativo #38,2910,personal,11,2021-08-28,pop
+39,Música para Trabajar #39,537,personal,3,2021-10-19,rap
+40,Metal Energy #40,2447,personal,68,2021-07-13,indie
+41,Éxitos del Momento #41,3523,personal,29,2023-03-04,pop
+42,Éxitos del Momento #42,680,personal,109,2022-10-14,electronica
+43,Metal Energy #43,editorial,colaborativa,449,2021-09-24,r&b
+44,Indie Rock Español #44,2299,personal,28,2021-10-09,rap
+45,Latin Hits #45,2944,personal,34,2022-04-04,clasica
+46,Fiesta Total #46,3551,personal,98,2023-06-03,indie
+47,Reggaeton 24/7 #47,1496,personal,17,2021-01-15,rock
+48,Baladas Románticas #48,1976,personal,2,2023-12-30,electronica
+49,Relax & Chill #49,editorial,colaborativa,986,2021-05-26,rock
+50,Vibes Nocturnas #50,editorial,personal,1746,2022-06-24,pop
+51,Vibes Nocturnas #51,1895,personal,40,2023-12-05,pop
+52,Electronic Dreams #52,2771,personal,19,2022-03-31,rap
+53,Hip-Hop Urbano #53,4137,personal,49,2021-07-31,electronica
+54,R&B Vibes #54,3328,colaborativa,235,2022-06-28,electronica
+55,Relax & Chill #55,1367,personal,42,2021-09-12,pop
+56,Metal Energy #56,847,personal,18,2021-07-24,rap
+57,Clásicos del Pop #57,editorial,editorial,279,2021-07-05,reggaeton
+58,Clásicos del Pop #58,3661,colaborativa,316,2021-01-02,clasica
+59,Éxitos del Momento #59,4265,personal,94,2021-03-04,clasica
+60,Rock Alternativo #60,4100,colaborativa,16,2021-10-29,pop
+61,Flamenco Moderno #61,33,personal,15,2022-01-10,electronica
+62,Fiesta Total #62,editorial,colaborativa,1627,2022-02-20,flamenco
+63,Relax & Chill #63,editorial,personal,4864,2023-09-19,rock
+64,Reggaeton 24/7 #64,3208,colaborativa,31,2023-02-16,rap
+65,Clásicos del Pop #65,2785,personal,12,2021-06-12,electronica
+66,Indie Rock Español #66,editorial,personal,261,2022-08-07,flamenco
+67,Fiesta Total #67,576,personal,79,2021-08-23,indie
+68,Reggaeton 24/7 #68,3955,editorial,46,2022-11-15,electronica
+69,Clásicos del Pop #69,1444,colaborativa,50,2023-12-23,latin
+70,Baladas Románticas #70,editorial,personal,216,2021-08-23,electronica
+71,Éxitos de los 90s #71,1966,personal,6,2023-12-14,pop
+72,Música para Trabajar #72,825,colaborativa,0,2021-03-15,rock
+73,Música para Trabajar #73,203,personal,123,2022-12-08,indie
+74,Fiesta Total #74,511,personal,21,2023-11-22,electronica
+75,Baladas Románticas #75,1931,personal,70,2023-03-18,latin
+76,Rock Alternativo #76,2713,editorial,107,2023-09-14,clasica
+77,Éxitos del Momento #77,3402,editorial,45,2023-01-26,indie
+78,Flamenco Moderno #78,2090,colaborativa,27,2021-08-10,indie
+79,Electronic Dreams #79,editorial,colaborativa,39,2021-04-03,r&b
+80,Rock Alternativo #80,editorial,personal,411,2023-12-22,r&b
+81,Latin Hits #81,4668,personal,19,2021-06-07,pop
+82,Música para Trabajar #82,1492,colaborativa,41,2022-10-24,latin
+83,Indie Rock Español #83,559,editorial,72,2022-07-31,reggaeton
+84,Metal Energy #84,3377,personal,62,2021-01-09,r&b
+85,Reggaeton 24/7 #85,1908,personal,101,2022-04-28,reggaeton
+86,Baladas Románticas #86,401,personal,2,2021-08-12,rap
+87,Éxitos de los 90s #87,1722,editorial,46,2021-04-26,rock
+88,Lo Mejor de Hoy #88,2725,personal,10,2022-05-10,electronica
+89,Relax & Chill #89,884,editorial,179,2023-06-21,rap
+90,Baladas Románticas #90,2272,personal,26,2021-05-28,indie
+91,Flamenco Moderno #91,editorial,colaborativa,977,2021-01-29,rock
+92,Electronic Dreams #92,editorial,personal,433,2021-07-04,electronica
+93,Electronic Dreams #93,2682,personal,12,2023-01-10,rock
+94,Música para Trabajar #94,2472,personal,58,2023-03-31,rap
+95,Baladas Románticas #95,4793,personal,140,2022-07-25,reggaeton
+96,Flamenco Moderno #96,2502,editorial,3,2023-12-23,flamenco
+97,Música para Trabajar #97,3867,editorial,87,2023-12-06,rock
+98,Rock Alternativo #98,2802,personal,20,2023-01-29,electronica
+99,Vibes Nocturnas #99,4311,personal,6,2023-06-02,flamenco
+100,Clásicos del Pop #100,4366,personal,62,2022-07-11,reggaeton
+101,Metal Energy #101,741,personal,4,2023-05-14,electronica
+102,Rock Alternativo #102,2696,personal,65,2021-12-07,rap
+103,Relax & Chill #103,3367,colaborativa,28,2022-07-20,clasica
+104,Hip-Hop Urbano #104,4496,personal,9,2022-11-27,flamenco
+105,Electronic Dreams #105,3041,personal,8,2022-04-29,flamenco
+106,Música para Trabajar #106,4166,colaborativa,68,2022-04-19,latin
+107,Música para Trabajar #107,645,editorial,88,2023-11-23,indie
+108,Reggaeton 24/7 #108,986,personal,57,2023-09-30,pop
+109,Lo Mejor de Hoy #109,2196,personal,63,2023-07-08,indie
+110,Electronic Dreams #110,968,personal,94,2022-10-21,reggaeton
+111,Hip-Hop Urbano #111,1835,personal,27,2023-10-26,indie
+112,Éxitos del Momento #112,editorial,personal,183,2022-07-31,rock
+113,Lo Mejor de Hoy #113,3693,editorial,23,2022-09-06,clasica
+114,Lo Mejor de Hoy #114,3291,editorial,193,2023-06-14,flamenco
+115,Flamenco Moderno #115,2317,personal,29,2021-02-14,flamenco
+116,Hip-Hop Urbano #116,editorial,personal,2575,2023-04-17,reggaeton
+117,Fiesta Total #117,2852,personal,60,2021-05-15,electronica
+118,Latin Hits #118,4883,colaborativa,66,2021-10-15,reggaeton
+119,Indie Rock Español #119,547,personal,10,2022-07-30,latin
+120,Fiesta Total #120,2791,editorial,23,2022-08-06,clasica
+121,Lo Mejor de Hoy #121,322,personal,65,2023-03-21,rock
+122,Vibes Nocturnas #122,1538,personal,53,2021-10-03,electronica
+123,Reggaeton 24/7 #123,915,editorial,99,2022-07-06,reggaeton
+124,Hip-Hop Urbano #124,480,personal,11,2021-01-25,reggaeton
+125,Baladas Románticas #125,1773,colaborativa,68,2023-12-22,reggaeton
+126,Rock Alternativo #126,3146,personal,2,2021-09-04,indie
+127,Flamenco Moderno #127,3231,personal,17,2022-11-16,pop
+128,Lo Mejor de Hoy #128,358,personal,49,2022-11-24,electronica
+129,Hip-Hop Urbano #129,editorial,colaborativa,3914,2021-08-20,rock
+130,Flamenco Moderno #130,2984,personal,227,2021-03-08,pop
+131,Indie Rock Español #131,4115,editorial,28,2022-02-05,rock
+132,Rock Alternativo #132,1159,colaborativa,72,2023-02-18,rock
+133,Indie Rock Español #133,2070,personal,45,2021-04-19,electronica
+134,Clásicos del Pop #134,3974,personal,61,2021-03-03,clasica
+135,Lo Mejor de Hoy #135,4517,personal,65,2021-04-15,flamenco
+136,Latin Hits #136,315,editorial,39,2021-12-13,r&b
+137,Hip-Hop Urbano #137,2277,colaborativa,84,2022-10-24,rap
+138,Lo Mejor de Hoy #138,4165,personal,43,2023-04-26,latin
+139,Electronic Dreams #139,1352,personal,5,2022-04-23,latin
+140,Lo Mejor de Hoy #140,2434,personal,226,2023-05-22,rap
+141,Metal Energy #141,126,editorial,18,2022-12-06,flamenco
+142,Fiesta Total #142,editorial,personal,3329,2021-02-21,flamenco
+143,Lo Mejor de Hoy #143,1814,personal,17,2022-02-03,reggaeton
+144,Vibes Nocturnas #144,2494,personal,95,2023-02-26,latin
+145,Fiesta Total #145,editorial,personal,1169,2021-01-11,latin
+146,Rock Alternativo #146,editorial,personal,441,2023-06-27,r&b
+147,Éxitos del Momento #147,4163,personal,139,2021-01-21,r&b
+148,Fiesta Total #148,955,personal,43,2022-12-10,electronica
+149,Latin Hits #149,1676,personal,88,2023-08-27,r&b
+150,Hip-Hop Urbano #150,editorial,personal,1594,2021-09-24,indie
+151,Clásicos del Pop #151,2098,colaborativa,2,2022-09-09,rock
+152,Metal Energy #152,1448,personal,15,2023-09-14,rock
+153,Éxitos del Momento #153,2913,editorial,31,2022-04-22,rock
+154,Clásicos del Pop #154,2863,personal,135,2021-02-20,flamenco
+155,Flamenco Moderno #155,1753,personal,3,2022-04-20,clasica
+156,Reggaeton 24/7 #156,532,colaborativa,10,2023-11-01,indie
+157,Música para Trabajar #157,2529,colaborativa,48,2022-03-18,indie
+158,Música para Trabajar #158,3751,personal,52,2021-03-24,electronica
+159,Fiesta Total #159,4168,colaborativa,8,2022-06-04,r&b
+160,Fiesta Total #160,1083,personal,148,2021-03-28,pop
+161,Éxitos de los 90s #161,editorial,personal,194,2023-05-26,pop
+162,Clásicos del Pop #162,444,personal,10,2021-07-28,latin
+163,Lo Mejor de Hoy #163,3781,colaborativa,50,2023-11-21,indie
+164,Baladas Románticas #164,1631,personal,27,2021-05-08,rap
+165,Fiesta Total #165,46,personal,1,2022-01-23,clasica
+166,Éxitos del Momento #166,2079,editorial,126,2023-05-12,latin
+167,Electronic Dreams #167,editorial,personal,78,2022-12-22,pop
+168,Vibes Nocturnas #168,1405,editorial,8,2022-06-16,latin
+169,Relax & Chill #169,3925,personal,113,2021-08-19,r&b
+170,Metal Energy #170,3366,personal,16,2021-08-10,electronica
+171,Hip-Hop Urbano #171,3634,personal,85,2021-08-12,indie
+172,Relax & Chill #172,3136,personal,9,2022-07-02,latin
+173,Latin Hits #173,3732,personal,2,2022-01-21,indie
+174,R&B Vibes #174,254,colaborativa,13,2022-12-08,reggaeton
+175,Éxitos de los 90s #175,1571,editorial,67,2021-08-09,flamenco
+176,Metal Energy #176,3587,personal,54,2021-08-15,rap
+177,Música para Trabajar #177,112,colaborativa,18,2022-11-24,pop
+178,Lo Mejor de Hoy #178,3260,personal,50,2022-10-06,electronica
+179,Éxitos del Momento #179,3133,colaborativa,54,2023-09-04,flamenco
+180,Fiesta Total #180,1739,colaborativa,41,2021-05-11,indie
+181,Vibes Nocturnas #181,678,personal,137,2023-09-10,indie
+182,Éxitos del Momento #182,3887,personal,78,2021-04-08,r&b
+183,Flamenco Moderno #183,211,personal,84,2022-04-12,clasica
+184,Vibes Nocturnas #184,editorial,personal,554,2023-09-10,pop
+185,Flamenco Moderno #185,3689,personal,57,2023-01-04,clasica
+186,Baladas Románticas #186,4801,editorial,10,2022-07-19,reggaeton
+187,Rock Alternativo #187,editorial,editorial,350,2021-07-24,pop
+188,Hip-Hop Urbano #188,4794,personal,34,2021-04-05,latin
+189,Relax & Chill #189,4609,personal,84,2021-11-16,pop
+190,Éxitos del Momento #190,4976,editorial,20,2023-03-08,flamenco
+191,Metal Energy #191,1327,colaborativa,28,2022-10-21,rock
+192,Éxitos de los 90s #192,2581,personal,157,2023-12-20,reggaeton
+193,Indie Rock Español #193,1155,personal,16,2021-03-11,reggaeton
+194,Electronic Dreams #194,editorial,personal,962,2023-12-26,r&b
+195,R&B Vibes #195,2067,personal,5,2023-05-09,electronica
+196,Reggaeton 24/7 #196,3540,personal,26,2023-06-18,rock
+197,Indie Rock Español #197,4431,editorial,20,2023-02-07,r&b
+198,Metal Energy #198,3400,colaborativa,0,2023-12-12,electronica
+199,Indie Rock Español #199,editorial,colaborativa,879,2022-09-02,latin
+200,Éxitos de los 90s #200,1038,personal,20,2021-01-17,pop
+201,Hip-Hop Urbano #201,4431,personal,14,2022-06-05,r&b
+202,Baladas Románticas #202,1377,personal,111,2023-05-28,electronica
+203,Lo Mejor de Hoy #203,327,editorial,13,2021-12-31,r&b
+204,Electronic Dreams #204,2295,personal,26,2023-01-08,latin
+205,Flamenco Moderno #205,4031,personal,149,2021-02-19,electronica
+206,Latin Hits #206,3424,colaborativa,4,2022-01-12,indie
+207,Indie Rock Español #207,3460,colaborativa,139,2021-05-16,rap
+208,Lo Mejor de Hoy #208,1384,personal,24,2023-04-04,reggaeton
+209,Éxitos de los 90s #209,editorial,personal,1565,2022-03-25,flamenco
+210,Relax & Chill #210,2578,colaborativa,21,2022-10-19,electronica
+211,Fiesta Total #211,3127,personal,26,2023-11-30,rock
+212,Hip-Hop Urbano #212,1734,personal,28,2021-11-11,rock
+213,Éxitos de los 90s #213,editorial,personal,2933,2021-08-23,reggaeton
+214,Vibes Nocturnas #214,3962,personal,39,2023-02-25,electronica
+215,R&B Vibes #215,915,personal,12,2021-02-26,rock
+216,R&B Vibes #216,1594,personal,47,2023-01-15,pop
+217,Lo Mejor de Hoy #217,4530,colaborativa,110,2023-04-13,electronica
+218,Clásicos del Pop #218,editorial,personal,241,2021-05-31,r&b
+219,Indie Rock Español #219,1046,personal,20,2022-05-26,indie
+220,Electronic Dreams #220,4003,personal,42,2022-09-03,electronica
+221,Música para Trabajar #221,3555,colaborativa,218,2021-01-08,electronica
+222,Indie Rock Español #222,1890,personal,31,2023-03-17,rap
+223,Hip-Hop Urbano #223,1190,personal,43,2023-10-19,electronica
+224,Éxitos de los 90s #224,3558,personal,7,2022-12-05,r&b
+225,Indie Rock Español #225,4390,personal,70,2022-07-22,rock
+226,Clásicos del Pop #226,665,personal,12,2021-12-14,rap
+227,Metal Energy #227,3972,personal,19,2021-01-05,r&b
+228,Éxitos de los 90s #228,1879,editorial,61,2023-05-12,flamenco
+229,Reggaeton 24/7 #229,1934,personal,62,2023-11-04,reggaeton
+230,Lo Mejor de Hoy #230,2117,personal,19,2022-08-12,r&b
+231,Éxitos del Momento #231,4196,personal,94,2022-09-21,r&b
+232,Vibes Nocturnas #232,789,personal,79,2023-06-19,electronica
+233,Fiesta Total #233,2803,personal,47,2021-12-02,latin
+234,Vibes Nocturnas #234,911,personal,9,2022-02-23,reggaeton
+235,Flamenco Moderno #235,627,editorial,117,2022-09-23,clasica
+236,Reggaeton 24/7 #236,1821,colaborativa,37,2021-01-20,r&b
+237,Lo Mejor de Hoy #237,3815,personal,23,2021-01-16,reggaeton
+238,Electronic Dreams #238,3216,editorial,131,2023-02-02,pop
+239,Éxitos del Momento #239,4237,editorial,178,2021-05-30,rap
+240,Éxitos del Momento #240,4016,personal,63,2023-06-02,indie
+241,Éxitos del Momento #241,4077,editorial,78,2022-04-23,rap
+242,Indie Rock Español #242,2983,editorial,14,2021-04-09,r&b
+243,Fiesta Total #243,4473,personal,14,2021-10-25,pop
+244,Fiesta Total #244,4373,editorial,42,2021-10-06,clasica
+245,Metal Energy #245,817,colaborativa,204,2022-08-01,flamenco
+246,Metal Energy #246,2687,personal,67,2022-04-22,clasica
+247,R&B Vibes #247,4103,colaborativa,68,2022-08-12,rap
+248,Electronic Dreams #248,4973,personal,14,2022-12-07,flamenco
+249,Vibes Nocturnas #249,1770,personal,27,2023-02-11,electronica
+250,R&B Vibes #250,1862,personal,20,2021-08-24,electronica
+251,Éxitos de los 90s #251,4762,editorial,17,2023-05-02,indie
+252,Indie Rock Español #252,1467,personal,65,2022-04-07,latin
+253,Éxitos del Momento #253,4622,personal,5,2022-08-23,flamenco
+254,Indie Rock Español #254,2479,editorial,9,2023-02-19,reggaeton
+255,Reggaeton 24/7 #255,4675,personal,26,2022-11-06,electronica
+256,Éxitos del Momento #256,2302,colaborativa,18,2023-06-26,electronica
+257,Reggaeton 24/7 #257,3786,personal,116,2022-06-28,electronica
+258,Baladas Románticas #258,1342,personal,11,2022-07-01,latin
+259,Indie Rock Español #259,680,personal,14,2023-10-24,rock
+260,Indie Rock Español #260,4792,personal,9,2021-06-06,pop
+261,Metal Energy #261,2099,editorial,97,2021-09-02,latin
+262,Vibes Nocturnas #262,editorial,personal,225,2023-06-08,pop
+263,R&B Vibes #263,3824,colaborativa,21,2021-08-14,r&b
+264,Relax & Chill #264,1387,personal,55,2023-08-28,indie
+265,Música para Trabajar #265,2084,colaborativa,4,2023-01-06,r&b
+266,Fiesta Total #266,1961,personal,84,2022-10-27,latin
+267,Lo Mejor de Hoy #267,4800,personal,61,2022-01-25,reggaeton
+268,Flamenco Moderno #268,2056,personal,15,2023-01-11,pop
+269,Clásicos del Pop #269,2189,personal,24,2022-07-16,clasica
+270,Música para Trabajar #270,4959,personal,48,2022-09-20,clasica
+271,Flamenco Moderno #271,editorial,personal,2927,2021-03-08,latin
+272,Latin Hits #272,409,personal,49,2021-05-29,r&b
+273,Éxitos del Momento #273,211,personal,14,2022-09-22,electronica
+274,Vibes Nocturnas #274,4777,personal,32,2021-06-08,reggaeton
+275,Electronic Dreams #275,560,personal,29,2023-02-05,indie
+276,Metal Energy #276,295,personal,38,2022-05-31,r&b
+277,Indie Rock Español #277,529,personal,36,2021-08-09,r&b
+278,Electronic Dreams #278,editorial,personal,452,2022-08-14,rap
+279,Metal Energy #279,3539,colaborativa,102,2021-09-16,rock
+280,Éxitos de los 90s #280,3084,personal,20,2023-01-09,pop
+281,Electronic Dreams #281,4277,personal,37,2023-10-03,rock
+282,Metal Energy #282,779,personal,15,2022-11-10,rock
+283,Flamenco Moderno #283,3564,personal,28,2021-06-19,latin
+284,Hip-Hop Urbano #284,2502,personal,57,2021-01-14,electronica
+285,Clásicos del Pop #285,155,personal,70,2021-07-05,electronica
+286,Relax & Chill #286,editorial,personal,1641,2023-06-01,rock
+287,Clásicos del Pop #287,3533,colaborativa,66,2023-12-11,latin
+288,Clásicos del Pop #288,50,personal,31,2023-01-30,reggaeton
+289,Música para Trabajar #289,425,editorial,1,2021-12-10,r&b
+290,Éxitos de los 90s #290,4941,personal,37,2022-10-01,clasica
+291,Relax & Chill #291,3914,colaborativa,2,2022-05-19,electronica
+292,Hip-Hop Urbano #292,editorial,editorial,3394,2023-02-06,r&b
+293,Clásicos del Pop #293,3475,editorial,23,2023-06-15,rock
+294,Flamenco Moderno #294,1751,personal,35,2023-02-25,reggaeton
+295,Metal Energy #295,3592,editorial,6,2023-11-03,clasica
+296,Éxitos del Momento #296,471,editorial,272,2022-10-31,r&b
+297,Relax & Chill #297,3227,personal,33,2023-05-03,flamenco
+298,Éxitos de los 90s #298,1870,personal,17,2021-12-02,rock
+299,Vibes Nocturnas #299,2606,personal,10,2021-07-23,rock
+300,Indie Rock Español #300,110,personal,52,2021-04-21,reggaeton
+301,Relax & Chill #301,2720,colaborativa,28,2021-10-12,pop
+302,Indie Rock Español #302,2790,personal,19,2021-05-20,reggaeton
+303,Metal Energy #303,798,personal,0,2021-10-24,indie
+304,Latin Hits #304,editorial,personal,37,2022-06-05,pop
+305,Indie Rock Español #305,3564,personal,59,2023-03-04,r&b
+306,Vibes Nocturnas #306,2536,colaborativa,32,2021-06-04,rock
+307,Rock Alternativo #307,2961,colaborativa,94,2022-08-06,flamenco
+308,R&B Vibes #308,2856,personal,70,2021-12-02,indie
+309,Flamenco Moderno #309,12,personal,42,2021-11-15,latin
+310,Baladas Románticas #310,3544,personal,41,2023-07-31,r&b
+311,Flamenco Moderno #311,2851,colaborativa,68,2021-12-14,latin
+312,Baladas Románticas #312,2670,personal,67,2023-07-24,clasica
+313,Indie Rock Español #313,4500,personal,20,2022-09-01,electronica
+314,Fiesta Total #314,1474,personal,5,2023-05-15,reggaeton
+315,Lo Mejor de Hoy #315,3698,personal,73,2021-07-30,clasica
+316,Relax & Chill #316,140,editorial,12,2021-01-05,electronica
+317,Indie Rock Español #317,3305,personal,78,2022-10-01,r&b
+318,R&B Vibes #318,3331,personal,48,2022-06-13,r&b
+319,Reggaeton 24/7 #319,1205,colaborativa,22,2022-11-14,pop
+320,Lo Mejor de Hoy #320,3036,personal,95,2022-05-27,pop
+321,Vibes Nocturnas #321,686,personal,58,2022-10-11,electronica
+322,Fiesta Total #322,4431,colaborativa,39,2023-12-26,reggaeton
+323,Éxitos de los 90s #323,editorial,personal,357,2022-03-11,flamenco
+324,Fiesta Total #324,2892,editorial,214,2023-11-16,flamenco
+325,Rock Alternativo #325,510,colaborativa,91,2022-10-25,indie
+326,Música para Trabajar #326,4459,editorial,7,2022-02-11,electronica
+327,Hip-Hop Urbano #327,3237,editorial,82,2023-02-08,reggaeton
+328,Rock Alternativo #328,4618,personal,6,2021-02-04,reggaeton
+329,Éxitos de los 90s #329,2857,editorial,14,2023-10-10,rock
+330,Clásicos del Pop #330,2125,editorial,157,2022-07-19,flamenco
+331,Lo Mejor de Hoy #331,4721,personal,101,2021-11-19,rap
+332,Metal Energy #332,3717,personal,46,2023-10-04,pop
+333,Rock Alternativo #333,1011,personal,60,2021-02-19,latin
+334,Fiesta Total #334,4910,personal,4,2021-10-22,flamenco
+335,Éxitos de los 90s #335,3770,personal,20,2021-01-07,indie
+336,Hip-Hop Urbano #336,4913,personal,19,2022-07-15,clasica
+337,Flamenco Moderno #337,2194,personal,1,2023-03-07,rock
+338,Lo Mejor de Hoy #338,3823,personal,60,2021-02-15,reggaeton
+339,Baladas Románticas #339,3122,personal,18,2023-10-15,pop
+340,Metal Energy #340,1268,colaborativa,50,2021-01-31,rock
+341,Flamenco Moderno #341,410,personal,1,2022-11-09,rock
+342,Indie Rock Español #342,921,personal,0,2021-04-27,pop
+343,R&B Vibes #343,3445,personal,9,2023-06-28,pop
+344,Hip-Hop Urbano #344,1969,personal,60,2023-05-03,indie
+345,Éxitos del Momento #345,4106,personal,46,2023-09-23,rap
+346,Flamenco Moderno #346,83,colaborativa,11,2021-08-04,indie
+347,Éxitos del Momento #347,3481,personal,37,2021-11-11,flamenco
+348,Flamenco Moderno #348,4709,personal,48,2021-02-26,latin
+349,Vibes Nocturnas #349,1099,editorial,139,2021-09-27,clasica
+350,Clásicos del Pop #350,3870,personal,71,2022-05-09,pop
+351,Relax & Chill #351,3745,colaborativa,7,2021-12-29,rap
+352,Éxitos del Momento #352,1286,personal,15,2023-07-16,flamenco
+353,Música para Trabajar #353,1846,colaborativa,25,2023-12-10,indie
+354,Hip-Hop Urbano #354,2983,colaborativa,5,2022-01-20,pop
+355,Baladas Románticas #355,1651,personal,40,2022-07-24,r&b
+356,Fiesta Total #356,2926,colaborativa,118,2022-10-08,electronica
+357,Baladas Románticas #357,503,personal,18,2021-06-28,flamenco
+358,Éxitos de los 90s #358,735,personal,208,2021-11-01,pop
+359,Éxitos del Momento #359,2263,personal,14,2021-03-28,indie
+360,Reggaeton 24/7 #360,4633,personal,31,2021-11-26,pop
+361,Hip-Hop Urbano #361,4612,colaborativa,21,2022-03-14,flamenco
+362,Reggaeton 24/7 #362,editorial,personal,368,2021-05-26,indie
+363,Indie Rock Español #363,2118,personal,23,2022-12-08,latin
+364,Música para Trabajar #364,2892,personal,1,2021-03-09,rap
+365,Lo Mejor de Hoy #365,2856,colaborativa,37,2023-11-18,flamenco
+366,Clásicos del Pop #366,2836,personal,67,2022-01-11,rap
+367,Reggaeton 24/7 #367,93,personal,99,2023-10-25,rock
+368,Reggaeton 24/7 #368,1159,personal,19,2023-08-02,pop
+369,Flamenco Moderno #369,3954,editorial,39,2023-06-19,rap
+370,Fiesta Total #370,503,personal,111,2021-02-21,clasica
+371,Relax & Chill #371,1741,personal,80,2021-08-08,r&b
+372,Reggaeton 24/7 #372,2271,editorial,31,2022-12-10,rap
+373,Fiesta Total #373,4968,editorial,9,2022-12-24,rap
+374,Electronic Dreams #374,4522,personal,40,2023-11-17,r&b
+375,Flamenco Moderno #375,3530,personal,228,2022-09-28,pop
+376,Rock Alternativo #376,1998,personal,70,2021-08-21,r&b
+377,Vibes Nocturnas #377,4284,colaborativa,94,2021-10-04,r&b
+378,Reggaeton 24/7 #378,979,editorial,10,2023-08-11,reggaeton
+379,Electronic Dreams #379,4916,personal,117,2022-11-20,rap
+380,Éxitos del Momento #380,3411,editorial,0,2022-11-05,rap
+381,Éxitos de los 90s #381,4982,editorial,99,2023-06-24,rock
+382,Electronic Dreams #382,2804,colaborativa,13,2022-06-26,indie
+383,Reggaeton 24/7 #383,2146,personal,48,2023-06-29,latin
+384,R&B Vibes #384,4838,colaborativa,17,2021-03-13,flamenco
+385,Fiesta Total #385,2912,personal,7,2021-09-14,reggaeton
+386,Música para Trabajar #386,1016,colaborativa,14,2022-08-18,clasica
+387,Indie Rock Español #387,2831,personal,32,2023-03-17,indie
+388,Indie Rock Español #388,editorial,colaborativa,2521,2022-04-30,electronica
+389,Fiesta Total #389,3652,personal,24,2022-04-22,electronica
+390,Reggaeton 24/7 #390,2358,editorial,2,2022-11-24,latin
+391,Fiesta Total #391,4479,colaborativa,1,2022-08-06,rock
+392,Metal Energy #392,1438,personal,11,2022-09-18,reggaeton
+393,Clásicos del Pop #393,840,editorial,2,2021-05-14,rock
+394,Hip-Hop Urbano #394,4995,personal,23,2022-06-28,electronica
+395,Clásicos del Pop #395,79,editorial,24,2022-07-22,clasica
+396,R&B Vibes #396,4338,editorial,179,2021-05-13,clasica
+397,Música para Trabajar #397,3819,personal,18,2022-05-09,r&b
+398,Electronic Dreams #398,1571,colaborativa,45,2022-08-14,latin
+399,Electronic Dreams #399,4142,personal,85,2021-09-28,latin
+400,Vibes Nocturnas #400,813,colaborativa,35,2021-08-17,pop
+401,R&B Vibes #401,3836,colaborativa,59,2021-04-09,rap
+402,Relax & Chill #402,675,personal,183,2023-08-30,electronica
+403,Latin Hits #403,2083,editorial,19,2022-06-01,flamenco
+404,Éxitos de los 90s #404,10,editorial,3,2022-03-26,indie
+405,Música para Trabajar #405,93,personal,28,2023-04-08,flamenco
+406,Rock Alternativo #406,742,personal,38,2023-02-03,rock
+407,Clásicos del Pop #407,1589,editorial,43,2023-12-06,electronica
+408,Éxitos de los 90s #408,2233,editorial,67,2021-12-01,latin
+409,R&B Vibes #409,editorial,personal,2283,2021-08-20,r&b
+410,Éxitos del Momento #410,1466,personal,34,2021-12-02,electronica
+411,Flamenco Moderno #411,4328,colaborativa,7,2023-04-01,clasica
+412,Lo Mejor de Hoy #412,2270,colaborativa,25,2021-01-17,clasica
+413,R&B Vibes #413,2112,personal,8,2021-05-04,electronica
+414,Lo Mejor de Hoy #414,1460,personal,10,2023-09-23,electronica
+415,R&B Vibes #415,2881,personal,0,2023-12-03,clasica
+416,Fiesta Total #416,1224,colaborativa,132,2022-05-22,rap
+417,Éxitos del Momento #417,1228,colaborativa,68,2022-04-07,electronica
+418,Rock Alternativo #418,2501,editorial,5,2023-09-14,electronica
+419,Electronic Dreams #419,4429,personal,126,2022-08-29,flamenco
+420,Hip-Hop Urbano #420,1151,personal,102,2022-08-18,rap
+421,Latin Hits #421,702,colaborativa,120,2023-02-28,reggaeton
+422,Latin Hits #422,2719,colaborativa,5,2022-12-25,latin
+423,Metal Energy #423,2075,personal,4,2021-10-26,indie
+424,Flamenco Moderno #424,955,colaborativa,3,2022-09-24,flamenco
+425,Vibes Nocturnas #425,2171,personal,170,2023-12-09,flamenco
+426,Éxitos de los 90s #426,614,editorial,54,2021-07-07,pop
+427,Relax & Chill #427,editorial,personal,195,2022-08-28,indie
+428,Metal Energy #428,415,personal,132,2022-09-19,clasica
+429,Rock Alternativo #429,751,editorial,29,2023-04-13,reggaeton
+430,Latin Hits #430,4942,colaborativa,76,2021-11-24,indie
+431,Clásicos del Pop #431,4943,personal,50,2023-06-11,electronica
+432,Relax & Chill #432,2469,personal,52,2021-02-24,clasica
+433,R&B Vibes #433,editorial,personal,579,2022-11-17,clasica
+434,Clásicos del Pop #434,4252,colaborativa,25,2023-08-16,clasica
+435,Fiesta Total #435,2433,personal,8,2021-11-27,indie
+436,Latin Hits #436,editorial,personal,73,2022-09-26,indie
+437,Éxitos del Momento #437,4958,personal,131,2021-10-01,rock
+438,Reggaeton 24/7 #438,266,personal,137,2023-04-13,rock
+439,Baladas Románticas #439,editorial,personal,1025,2021-06-05,electronica
+440,Metal Energy #440,1162,personal,24,2021-09-29,pop
+441,Vibes Nocturnas #441,251,personal,1,2021-10-19,flamenco
+442,Rock Alternativo #442,2317,personal,29,2022-02-03,latin
+443,Reggaeton 24/7 #443,2388,personal,53,2023-03-04,clasica
+444,Vibes Nocturnas #444,editorial,personal,357,2021-03-10,flamenco
+445,Vibes Nocturnas #445,1228,personal,20,2022-06-23,reggaeton
+446,R&B Vibes #446,2682,personal,31,2023-11-14,r&b
+447,Flamenco Moderno #447,1868,personal,34,2022-06-06,indie
+448,Reggaeton 24/7 #448,editorial,personal,1358,2023-07-01,indie
+449,Latin Hits #449,918,personal,34,2022-02-17,r&b
+450,Relax & Chill #450,158,personal,93,2021-03-15,pop
+451,Éxitos del Momento #451,4563,editorial,32,2021-11-13,indie
+452,Fiesta Total #452,3978,personal,1,2023-02-14,clasica
+453,Latin Hits #453,1440,personal,7,2023-02-10,reggaeton
+454,Música para Trabajar #454,165,personal,63,2021-09-28,pop
+455,Vibes Nocturnas #455,3432,personal,30,2023-03-23,clasica
+456,Éxitos del Momento #456,4895,personal,30,2022-09-25,flamenco
+457,Música para Trabajar #457,827,editorial,190,2022-02-14,rock
+458,Electronic Dreams #458,editorial,editorial,847,2021-10-29,rap
+459,Fiesta Total #459,458,personal,6,2022-10-19,rap
+460,Latin Hits #460,1720,personal,28,2022-02-14,rock
+461,Baladas Románticas #461,3842,personal,41,2023-11-13,latin
+462,Flamenco Moderno #462,215,personal,1,2022-12-07,latin
+463,Metal Energy #463,641,personal,22,2023-01-30,flamenco
+464,Éxitos del Momento #464,2920,editorial,171,2022-11-22,rock
+465,Relax & Chill #465,2834,personal,69,2023-09-11,clasica
+466,Electronic Dreams #466,3932,personal,23,2023-07-14,flamenco
+467,Baladas Románticas #467,783,personal,15,2022-08-31,electronica
+468,Relax & Chill #468,426,personal,16,2023-11-24,reggaeton
+469,Latin Hits #469,2168,personal,88,2021-06-20,clasica
+470,Vibes Nocturnas #470,4333,personal,25,2022-07-28,rock
+471,Relax & Chill #471,2102,editorial,92,2023-01-29,flamenco
+472,Indie Rock Español #472,2788,personal,119,2023-10-25,reggaeton
+473,Reggaeton 24/7 #473,editorial,personal,623,2022-01-11,electronica
+474,Hip-Hop Urbano #474,4445,personal,145,2021-05-25,latin
+475,Indie Rock Español #475,914,personal,17,2023-10-19,rock
+476,Lo Mejor de Hoy #476,1267,personal,15,2021-11-28,latin
+477,Rock Alternativo #477,1306,personal,5,2021-12-08,r&b
+478,Música para Trabajar #478,3308,personal,14,2021-05-04,rap
+479,Vibes Nocturnas #479,2401,editorial,74,2022-06-19,electronica
+480,Hip-Hop Urbano #480,4246,personal,25,2022-08-05,rock
+481,Reggaeton 24/7 #481,2682,personal,8,2021-04-14,flamenco
+482,Éxitos del Momento #482,editorial,colaborativa,113,2021-04-02,reggaeton
+483,Vibes Nocturnas #483,4037,personal,33,2022-05-08,flamenco
+484,Reggaeton 24/7 #484,4823,colaborativa,38,2021-02-15,electronica
+485,Flamenco Moderno #485,4331,personal,79,2021-11-02,pop
+486,R&B Vibes #486,3573,colaborativa,62,2023-12-16,flamenco
+487,Latin Hits #487,3325,personal,9,2023-09-11,rap
+488,Flamenco Moderno #488,2098,editorial,16,2022-12-12,clasica
+489,R&B Vibes #489,3027,personal,59,2023-07-17,electronica
+490,Vibes Nocturnas #490,3217,personal,9,2023-12-20,electronica
+491,Vibes Nocturnas #491,857,personal,81,2021-03-05,latin
+492,Reggaeton 24/7 #492,3620,personal,53,2021-10-12,reggaeton
+493,Lo Mejor de Hoy #493,1622,editorial,38,2023-11-11,latin
+494,Flamenco Moderno #494,3319,personal,51,2023-06-08,rap
+495,Flamenco Moderno #495,2032,editorial,5,2023-11-11,flamenco
+496,Flamenco Moderno #496,4846,colaborativa,39,2021-06-29,electronica
+497,Música para Trabajar #497,3380,personal,30,2023-05-05,pop
+498,Éxitos del Momento #498,1240,personal,35,2023-11-13,latin
+499,Latin Hits #499,1570,personal,20,2023-10-06,clasica
+500,Lo Mejor de Hoy #500,editorial,editorial,631,2021-06-25,pop

@@ -1,0 +1,201 @@
+artista_id,nombre_artistico,genero_principal,pais_origen,anio_debut,seguidores,verificado,sello_discografico
+1,La Casa Azul,rock,España,1953,2446340,0,Independiente
+2,Recycled J,rap,España,1967,15150607,0,Columbia Records
+3,El Guincho,r&b,España,1961,6683728,1,Sony Music
+4,Los Secretos,pop,España,1961,4664712,1,TuneCore
+5,Duncan Dhu,clasica,España,1953,948124,1,Astralwerks
+6,Måneskin,r&b,España,2003,947981,1,Island Def Jam
+7,Melendi,electronica,España,1950,399193,0,Warner Bros Records
+8,Leiva,flamenco,España,1993,10156154,1,Independiente
+9,Bunbury,indie,España,1963,4695410,1,Universal Music
+10,Fito & Fitipaldis,indie,España,1994,6256250,1,Epic Records
+11,Javier Álvarez,pop,España,2008,203996,1,DistroKid
+12,Juan Luis Guerra,rock,España,2020,17617787,1,Columbia Records
+13,Rosalía,clasica,España,1996,9032147,1,Astralwerks
+14,Bad Bunny,rock,España,1955,1293438,1,Epic Records
+15,Karol G,electronica,España,1960,1103394,0,Atlantic Records
+16,C. Tangana,rock,España,1998,1113057,1,Columbia Records
+17,Pablo Alborán,indie,España,1970,1913768,1,Independiente
+18,Enrique Iglesias,electronica,España,1959,3819639,1,Warner Bros Records
+19,Alejandro Sanz,r&b,España,1981,2927685,1,DistroKid
+20,Ricky Martin,electronica,España,2021,1821114,1,CD Baby
+21,Serrat,pop,España,1979,4831854,0,Epic Records
+22,Joan Manuel Serrat,indie,España,2001,851172,1,Independiente
+23,Camarón de la Isla,clasica,España,1990,1827577,1,Merlin
+24,Paco de Lucía,flamenco,España,2008,2381386,1,Warner Bros Records
+25,Morat,rap,España,2021,3144673,1,Astralwerks
+26,Taburete,clasica,España,2004,7789680,0,DistroKid
+27,Sfdk,indie,España,1978,1213679,0,Warner Bros Records
+28,La Casa Azul,r&b,España,2013,3710145,1,Sony Music
+29,Elefantes,rock,España,1969,4587523,1,Epic Records
+30,Bunbury,flamenco,España,1958,337819,1,Island Def Jam
+31,Extremoduro,latin,España,2017,4776665,1,TuneCore
+32,Taylor Swift,pop,Suecia,1964,1995690,1,TuneCore
+33,The Weeknd,electronica,Canadá,1993,1038111,1,DistroKid
+34,Drake,reggaeton,Francia,1950,24289502,0,Astralwerks
+35,Billie Eilish,electronica,Italia,1972,27465042,1,Universal Music
+36,Ariana Grande,electronica,Canadá,2014,13718652,1,Warner Bros Records
+37,Ed Sheeran,indie,Canadá,1970,3406302,1,Epic Records
+38,Bad Bunny,r&b,USA,1991,1322218,1,Universal Music
+39,Dua Lipa,indie,Canadá,1989,9722006,1,Independiente
+40,The Weeknd,clasica,USA,1960,5140726,1,Atlantic Records
+41,Spotify,rock,Canadá,2018,1541217,1,Warner Bros Records
+42,Beyoncé,latin,Italia,1971,5968377,1,Atlantic Records
+43,Harry Styles,clasica,Francia,1977,779949,0,Epic Records
+44,Justin Bieber,rap,Suecia,1989,19703383,1,Columbia Records
+45,Olivia Rodrigo,indie,Francia,2016,2895662,1,Independiente
+46,Doja Cat,rap,USA,1993,9190046,1,TuneCore
+47,Post Malone,rap,Italia,1978,3488372,1,Astralwerks
+48,Khalid,pop,Reino Unido,1958,6372887,0,Atlantic Records
+49,Shawn Mendes,indie,USA,2015,6829790,1,Columbia Records
+50,Justin Timberlake,latin,Reino Unido,2019,2135108,1,Island Def Jam
+51,Bruno Mars,clasica,Francia,1981,28442457,1,Epic Records
+52,Coldplay,flamenco,Reino Unido,1962,12437963,1,DistroKid
+53,Radiohead,indie,Francia,2002,22940755,1,Astralwerks
+54,Oasis,pop,Suecia,1962,18517215,1,Astralwerks
+55,Arctic Monkeys,indie,Canadá,1963,7788435,1,Independiente
+56,The Strokes,r&b,Francia,1967,20895483,1,Believe
+57,David Bowie,latin,Reino Unido,1959,1241243,1,Atlantic Records
+58,Queen,r&b,USA,1956,2245077,1,TuneCore
+59,The Beatles,pop,USA,1980,870255,1,Merlin
+60,Pink Floyd,latin,Reino Unido,2001,3648256,0,Warner Bros Records
+61,Metallica,flamenco,USA,1999,4437042,1,Epic Records
+62,Eminem,latin,Alemania,2004,3032483,1,Astralwerks
+63,Jay-Z,r&b,Suecia,2012,14616462,1,Believe
+64,Kanye West,rap,USA,2019,4029815,1,CD Baby
+65,Kendrick Lamar,pop,USA,2011,3138422,1,Atlantic Records
+66,J. Cole,r&b,Reino Unido,1957,6759256,0,Universal Music
+67,Stromae,reggaeton,USA,1958,1715185,1,Independiente
+68,David Guetta,flamenco,USA,2022,13463868,1,Island Def Jam
+69,Calvin Harris,pop,Italia,1960,1119806,1,Island Def Jam
+70,Tiësto,clasica,Italia,1990,35173170,0,Independiente
+71,Diplo,indie,Reino Unido,1983,12335870,1,Columbia Records
+72,Bob Marley,electronica,Francia,1990,2272315,0,Universal Music
+73,Reggaeton Kings,pop,Francia,2022,544299,0,Universal Music
+74,Luis Fonsi,r&b,Reino Unido,2014,14019174,1,CD Baby
+75,Daddy Yankee,rock,Reino Unido,1997,10316767,1,Merlin
+76,Ozuna,r&b,Suecia,1988,10945303,1,Epic Records
+77,Emma Torres,r&b,España,1988,4435643,0,Warner Bros Records
+78,María Johnson,electronica,España,2020,240787,1,Independiente
+79,David Stone,indie,España,1983,1341678,0,Atlantic Records
+80,Francisco Stone,pop,España,1985,379450,1,Warner Bros Records
+81,Gabriel Torres,electronica,España,2004,5975588,0,Astralwerks
+82,Miguel Torres,reggaeton,Suecia,1968,2938903,0,CD Baby
+83,David Rodríguez,pop,Francia,1963,1215456,0,Atlantic Records
+84,Alex Green,flamenco,Alemania,1980,207004,0,Independiente
+85,José Johnson,reggaeton,USA,1992,1127465,0,Columbia Records
+86,Diego Johnson,rap,España,1963,1189942,0,Merlin
+87,Alex Fernández,rap,España,1994,3933627,0,Independiente
+88,Carlos González,rap,España,1992,3054668,1,Epic Records
+89,Sofia González,electronica,España,2018,6556755,0,Believe
+90,Juan López,reggaeton,Italia,2005,1927198,0,DistroKid
+91,Francisco Green,clasica,Reino Unido,2023,392117,1,DistroKid
+92,David Johnson,pop,Argentina,1975,3757379,0,Columbia Records
+93,Laura Green,indie,Reino Unido,1988,4301178,0,CD Baby
+94,José Rodríguez,flamenco,Argentina,2003,2481662,0,Astralwerks
+95,Francisco Torres,reggaeton,Italia,1950,4431669,0,Epic Records
+96,Gabriel Fernández,clasica,Suecia,2006,2052444,0,Epic Records
+97,Sofia Smith,reggaeton,Italia,1992,2229036,1,Independiente
+98,Diego Rodríguez,rap,Francia,1968,1683442,1,Merlin
+99,Gabriel González,clasica,Reino Unido,2023,87243,1,Merlin
+100,David Johnson,flamenco,España,1950,352502,0,Independiente
+101,José Brown,rock,Francia,2016,105801,0,Atlantic Records
+102,David Torres,rock,Méjico,2021,3045188,0,Independiente
+103,Francisco Stone,latin,Argentina,2020,1142190,0,Atlantic Records
+104,Emma Smith,latin,Francia,1985,2141311,0,Columbia Records
+105,María Johnson,rap,España,1986,7153796,1,TuneCore
+106,Carlos González,rock,España,1969,870216,0,DistroKid
+107,Juan Rodríguez,indie,Canadá,2003,1594845,0,Astralwerks
+108,Gabriel García,pop,Canadá,1995,4236247,1,Atlantic Records
+109,Diego Ramírez,flamenco,Argentina,1978,789415,0,Merlin
+110,David Smith,pop,España,2001,250312,0,Independiente
+111,Juan Green,reggaeton,Argentina,2000,1036420,0,Universal Music
+112,Gabriel Martínez,flamenco,España,1956,537425,1,Merlin
+113,Alex González,indie,España,1985,7974850,0,Independiente
+114,Juan Johnson,electronica,Méjico,2019,4962661,1,Independiente
+115,Diego García,rap,USA,1981,3020482,1,Warner Bros Records
+116,David López,rap,España,2022,6164559,0,Believe
+117,Miguel Johnson,indie,España,1964,4893906,0,Believe
+118,Miguel Smith,rock,Italia,1998,629486,0,Universal Music
+119,María Johnson,clasica,Francia,1988,6702440,0,Universal Music
+120,Sofia González,clasica,Suecia,1997,2335299,1,Sony Music
+121,Francisco Pérez,flamenco,Reino Unido,2008,4952044,0,Astralwerks
+122,Miguel Brown,r&b,Italia,2018,6802727,0,Atlantic Records
+123,Emma Rodríguez,clasica,España,1961,1158192,1,Epic Records
+124,Luis García,latin,Canadá,2013,359776,0,Independiente
+125,Ana Green,indie,Suecia,1985,786060,0,Independiente
+126,Francisco Fernández,rock,España,2021,1681173,0,Columbia Records
+127,María Sánchez,latin,USA,1978,5121489,0,Columbia Records
+128,Sofia Torres,clasica,España,1994,5924034,0,CD Baby
+129,Ana Sánchez,indie,Italia,1979,30929,1,Universal Music
+130,Carlos Rodríguez,r&b,Alemania,2011,2154628,1,Epic Records
+131,Emma Rodríguez,r&b,Reino Unido,1987,1630819,1,Sony Music
+132,Juan García,r&b,España,2020,763502,1,Independiente
+133,Juan Ramírez,latin,España,1986,393041,0,Warner Bros Records
+134,Emma Fernández,pop,España,1964,1245725,0,Universal Music
+135,José Martínez,clasica,USA,2022,8599363,0,Independiente
+136,Miguel Ramírez,rock,Canadá,1978,1181151,0,Merlin
+137,Ana Ramírez,electronica,Canadá,1957,2204358,0,Epic Records
+138,David López,rap,Italia,1970,3652260,1,Warner Bros Records
+139,Ana García,pop,Méjico,1979,1365923,1,Atlantic Records
+140,Carlos Green,latin,España,1983,10713394,0,Columbia Records
+141,Carlos Smith,rap,Argentina,1969,9856029,0,Independiente
+142,Diego Sánchez,rock,España,2022,880183,0,Merlin
+143,Sofia Torres,electronica,Italia,2013,2072977,0,DistroKid
+144,María Rodríguez,indie,USA,2023,1083791,0,Epic Records
+145,Gabriel Torres,electronica,Alemania,2006,1015749,0,Island Def Jam
+146,María Fernández,flamenco,Méjico,1994,122753,0,Universal Music
+147,Laura Fernández,reggaeton,España,1986,2831476,0,Epic Records
+148,María Pérez,r&b,España,1982,2105558,0,Independiente
+149,David Stone,flamenco,USA,2019,168553,0,TuneCore
+150,David Fernández,indie,Méjico,1956,989877,1,Believe
+151,María García,latin,Méjico,1980,7176582,0,Sony Music
+152,Emma Green,r&b,Francia,1964,831581,0,Atlantic Records
+153,Sofia Johnson,reggaeton,Italia,1984,479592,0,Merlin
+154,Francisco Rodríguez,rap,Alemania,2015,2026816,0,Universal Music
+155,Luis Green,electronica,Canadá,2014,12742110,1,Astralwerks
+156,Emma Martínez,electronica,Méjico,2007,841434,0,TuneCore
+157,Alex Pérez,r&b,España,1974,3355465,0,DistroKid
+158,Juan Pérez,rap,Canadá,2010,4311662,0,Independiente
+159,Gabriel García,flamenco,Alemania,1966,823999,0,Atlantic Records
+160,María Torres,rock,Méjico,2008,3918246,1,Atlantic Records
+161,Diego Sánchez,reggaeton,España,1993,1385568,0,Universal Music
+162,Francisco Pérez,indie,Argentina,2012,3011511,0,Universal Music
+163,Carlos Johnson,rap,Italia,1961,3021513,0,Columbia Records
+164,Alex García,rock,Italia,1955,2312155,0,CD Baby
+165,Sofia González,indie,Francia,2022,293887,0,Warner Bros Records
+166,Miguel Smith,rock,Canadá,1980,5420934,0,Independiente
+167,Ana Smith,latin,Méjico,1951,1170430,0,Believe
+168,Gabriel Pérez,r&b,España,1988,629296,0,Believe
+169,Francisco Stone,latin,Francia,2011,134889,1,CD Baby
+170,Laura Sánchez,clasica,España,1952,2691335,0,Believe
+171,Alex Ramírez,pop,USA,2013,3405555,0,Independiente
+172,Carlos Smith,rap,Suecia,1974,60180,0,Astralwerks
+173,Ana Brown,reggaeton,USA,2006,2162891,1,Warner Bros Records
+174,Laura González,rock,Suecia,1972,780472,1,CD Baby
+175,Emma Martínez,r&b,Italia,1982,3118373,0,Independiente
+176,Diego López,electronica,Suecia,2009,584812,0,Independiente
+177,Luis López,flamenco,Argentina,2000,3532637,1,Merlin
+178,Miguel González,indie,Italia,1997,1476876,1,Sony Music
+179,Luis Green,clasica,Argentina,1978,8291031,0,Merlin
+180,José García,electronica,Reino Unido,1954,453833,0,Universal Music
+181,Francisco Fernández,rap,Alemania,1997,1261397,0,TuneCore
+182,Alex González,flamenco,Alemania,1962,371332,0,Believe
+183,Gabriel Fernández,pop,Francia,1980,7768571,0,Columbia Records
+184,Juan González,indie,Suecia,1985,6305001,1,Atlantic Records
+185,Carlos Smith,latin,España,1952,904982,1,Warner Bros Records
+186,Emma Brown,clasica,España,2020,3246288,1,Atlantic Records
+187,José Brown,rap,España,1950,5108452,1,Independiente
+188,María Smith,reggaeton,Alemania,1953,2440397,1,Epic Records
+189,José Sánchez,rap,USA,1956,2272838,1,Universal Music
+190,Sofia Ramírez,rock,Suecia,1963,840631,0,Island Def Jam
+191,Ana Fernández,pop,Argentina,1953,303178,1,DistroKid
+192,Laura Green,flamenco,Méjico,2006,6835369,1,Island Def Jam
+193,Ana Ramírez,reggaeton,España,2024,6930323,0,Island Def Jam
+194,Sofia Ramírez,r&b,España,2005,3018009,1,Atlantic Records
+195,Francisco Fernández,r&b,Francia,1979,1252139,0,Independiente
+196,Luis González,flamenco,Reino Unido,1990,1298702,0,Warner Bros Records
+197,Emma López,latin,España,1961,3893396,0,CD Baby
+198,Sofia Pérez,reggaeton,Argentina,1965,6832292,0,Independiente
+199,Ana Ramírez,flamenco,USA,1989,6553397,0,Independiente
+200,Emma López,reggaeton,Francia,1994,4550686,0,Epic Records
