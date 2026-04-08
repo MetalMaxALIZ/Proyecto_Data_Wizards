@@ -1,0 +1,201 @@
+"artista_id";"nombre_artistico";"genero_principal";"pais_origen";"anio_debut";"seguidores";"verificado";"sello_discografico";"num_canciones";"num_canciones_en_chart";"total_streams";"streams_promedio_por_cancion";"puntuacion_media";"bailabilidad_media";"energia_media";"mejor_posicion_chart";"total_semanas_chart";"num_playlists_total"
+1;"La Casa Azul";"rock";"España";"1953";2446340;0;"Independiente";8;7;13778;1722.25;3.77;0.42;0.73;3;16;31
+2;"Recycled J";"rap";"España";"1967";15150607;0;"Columbia Records";12;12;36218;3018.17;3.85;0.77;0.81;1;29;50
+3;"El Guincho";"r&b";"España";"1961";6683728;1;"Sony Music";11;11;19504;1773.09;3.75;0.64;0.59;1;30;39
+4;"Los Secretos";"pop";"España";"1961";4664712;1;"TuneCore";6;5;11227;1871.17;3.38;0.69;0.66;4;12;19
+5;"Duncan Dhu";"clasica";"España";"1953";948124;1;"Astralwerks";7;6;24190;3455.71;3.65;0.17;0.26;13;18;34
+6;"Måneskin";"r&b";"España";"2003";947981;1;"Island Def Jam";4;3;7014;1753.5;4.18;0.55;0.7;5;6;16
+7;"Melendi";"electronica";"España";"1950";399193;0;"Warner Bros Records";9;6;15345;1705.0;4.18;0.76;0.86;2;18;35
+8;"Leiva";"flamenco";"España";"1993";10156154;1;"Independiente";5;4;13590;2718.0;3.81;0.64;0.76;6;10;27
+9;"Bunbury";"indie";"España";"1963";4695410;1;"Universal Music";10;10;22228;2222.8;3.9;0.45;0.55;8;20;49
+10;"Fito & Fitipaldis";"indie";"España";"1994";6256250;1;"Epic Records";9;8;17097;1899.67;3.41;0.31;0.48;1;22;41
+11;"Javier Álvarez";"pop";"España";"2008";203996;1;"DistroKid";10;10;22275;2227.5;3.91;0.7;0.54;4;23;46
+12;"Juan Luis Guerra";"rock";"España";"2020";17617787;1;"Columbia Records";13;12;24717;1901.31;3.58;0.44;0.77;6;26;58
+13;"Rosalía";"clasica";"España";"1996";9032147;1;"Astralwerks";8;8;11632;1454.0;3.82;0.11;0.35;2;25;19
+14;"Bad Bunny";"rock";"España";"1955";1293438;1;"Epic Records";13;11;22658;1742.92;3.6;0.45;0.84;1;32;51
+15;"Karol G";"electronica";"España";"1960";1103394;0;"Atlantic Records";10;9;15596;1559.6;3.97;0.8;0.8;1;20;37
+16;"C. Tangana";"rock";"España";"1998";1113057;1;"Columbia Records";7;7;12590;1798.57;4.02;0.55;0.77;5;16;21
+17;"Pablo Alborán";"indie";"España";"1970";1913768;1;"Independiente";6;5;14190;2365.0;3.93;0.36;0.54;3;14;19
+18;"Enrique Iglesias";"electronica";"España";"1959";3819639;1;"Warner Bros Records";10;10;19270;1927.0;3.9;0.75;0.7;3;27;37
+19;"Alejandro Sanz";"r&b";"España";"1981";2927685;1;"DistroKid";8;8;9540;1192.5;3.89;0.71;0.58;2;19;30
+20;"Ricky Martin";"electronica";"España";"2021";1821114;1;"CD Baby";10;8;21880;2188.0;3.76;0.81;0.79;1;23;49
+21;"Serrat";"pop";"España";"1979";4831854;0;"Epic Records";7;7;12216;1745.14;3.38;0.67;0.58;1;19;20
+22;"Joan Manuel Serrat";"indie";"España";"2001";851172;1;"Independiente";7;7;13228;1889.71;3.52;0.47;0.54;2;17;25
+23;"Camarón de la Isla";"clasica";"España";"1990";1827577;1;"Merlin";10;9;10170;1017.0;3.71;0.19;0.4;7;17;33
+24;"Paco de Lucía";"flamenco";"España";"2008";2381386;1;"Warner Bros Records";8;7;12701;1587.63;3.86;0.63;0.58;4;15;28
+25;"Morat";"rap";"España";"2021";3144673;1;"Astralwerks";9;7;10650;1183.33;3.42;0.85;0.85;1;17;29
+26;"Taburete";"clasica";"España";"2004";7789680;0;"DistroKid";13;12;28667;2205.15;4.05;0.11;0.46;1;36;43
+27;"Sfdk";"indie";"España";"1978";1213679;0;"Warner Bros Records";20;20;35670;1783.5;3.82;0.49;0.59;1;46;74
+28;"La Casa Azul";"r&b";"España";"2013";3710145;1;"Sony Music";11;8;16084;1462.18;3.67;0.64;0.57;5;18;36
+29;"Elefantes";"rock";"España";"1969";4587523;1;"Epic Records";13;11;27164;2089.54;3.64;0.51;0.78;2;24;62
+30;"Bunbury";"flamenco";"España";"1958";337819;1;"Island Def Jam";8;7;22450;2806.25;3.75;0.68;0.69;3;22;34
+31;"Extremoduro";"latin";"España";"2017";4776665;1;"TuneCore";12;11;22688;1890.67;4.04;0.82;0.72;2;23;52
+32;"Taylor Swift";"pop";"Suecia";"1964";1995690;1;"TuneCore";6;4;9068;1511.33;3.95;0.77;0.63;12;11;23
+33;"The Weeknd";"electronica";"Canadá";"1993";1038111;1;"DistroKid";7;7;19185;2740.71;3.99;0.79;0.84;1;22;24
+34;"Drake";"reggaeton";"Francia";"1950";24289502;0;"Astralwerks";12;11;16024;1335.33;3.86;0.9;0.83;1;22;46
+35;"Billie Eilish";"electronica";"Italia";"1972";27465042;1;"Universal Music";6;6;25298;4216.33;3.46;0.79;0.76;1;21;28
+36;"Ariana Grande";"electronica";"Canadá";"2014";13718652;1;"Warner Bros Records";12;12;23716;1976.33;3.49;0.78;0.79;1;23;48
+37;"Ed Sheeran";"indie";"Canadá";"1970";3406302;1;"Epic Records";14;13;30170;2155.0;3.77;0.43;0.59;1;30;53
+38;"Bad Bunny";"r&b";"USA";"1991";1322218;1;"Universal Music";13;12;22660;1743.08;3.8;0.65;0.52;2;23;55
+39;"Dua Lipa";"indie";"Canadá";"1989";9722006;1;"Independiente";14;11;19564;1397.43;3.8;0.37;0.56;4;27;42
+40;"The Weeknd";"clasica";"USA";"1960";5140726;1;"Atlantic Records";9;9;14718;1635.33;3.98;0.15;0.35;3;20;34
+41;"Spotify";"rock";"Canadá";"2018";1541217;1;"Warner Bros Records";7;6;6036;862.29;3.92;0.47;0.81;8;9;24
+42;"Beyoncé";"latin";"Italia";"1971";5968377;1;"Atlantic Records";10;10;20754;2075.4;3.71;0.88;0.72;2;24;37
+43;"Harry Styles";"clasica";"Francia";"1977";779949;0;"Epic Records";8;8;11968;1496.0;3.9;0.17;0.24;1;15;36
+44;"Justin Bieber";"rap";"Suecia";"1989";19703383;1;"Columbia Records";12;12;23319;1943.25;3.69;0.71;0.83;1;31;41
+45;"Olivia Rodrigo";"indie";"Francia";"2016";2895662;1;"Independiente";5;5;10656;2131.2;3.93;0.53;0.45;4;13;22
+46;"Doja Cat";"rap";"USA";"1993";9190046;1;"TuneCore";17;16;23936;1408.0;4.11;0.8;0.83;1;39;48
+47;"Post Malone";"rap";"Italia";"1978";3488372;1;"Astralwerks";8;7;25412;3176.5;3.69;0.78;0.95;3;15;41
+48;"Khalid";"pop";"Reino Unido";"1958";6372887;0;"Atlantic Records";7;6;12105;1729.29;3.83;0.62;0.56;5;10;35
+49;"Shawn Mendes";"indie";"USA";"2015";6829790;1;"Columbia Records";16;15;31160;1947.5;3.8;0.52;0.58;1;36;59
+50;"Justin Timberlake";"latin";"Reino Unido";"2019";2135108;1;"Island Def Jam";10;10;12715;1271.5;3.73;0.84;0.76;2;26;27
+51;"Bruno Mars";"clasica";"Francia";"1981";28442457;1;"Epic Records";9;8;23088;2565.33;3.99;0.2;0.28;3;21;37
+52;"Coldplay";"flamenco";"Reino Unido";"1962";12437963;1;"DistroKid";12;12;37896;3158.0;3.82;0.54;0.64;2;30;53
+53;"Radiohead";"indie";"Francia";"2002";22940755;1;"Astralwerks";11;11;22518;2047.09;3.7;0.35;0.49;1;27;52
+54;"Oasis";"pop";"Suecia";"1962";18517215;1;"Astralwerks";12;12;20370;1697.5;3.68;0.68;0.6;1;33;45
+55;"Arctic Monkeys";"indie";"Canadá";"1963";7788435;1;"Independiente";9;8;12023;1335.89;4.0;0.44;0.55;1;21;33
+56;"The Strokes";"r&b";"Francia";"1967";20895483;1;"Believe";9;9;25992;2888.0;4.01;0.71;0.63;1;26;37
+57;"David Bowie";"latin";"Reino Unido";"1959";1241243;1;"Atlantic Records";14;14;25346;1810.43;3.77;0.86;0.78;2;29;45
+58;"Queen";"r&b";"USA";"1956";2245077;1;"TuneCore";13;12;31833;2448.69;3.73;0.61;0.51;2;26;62
+59;"The Beatles";"pop";"USA";"1980";870255;1;"Merlin";5;4;5451;1090.2;4.03;0.62;0.68;1;8;17
+60;"Pink Floyd";"latin";"Reino Unido";"2001";3648256;0;"Warner Bros Records";8;7;12688;1586.0;3.67;0.82;0.79;1;17;32
+61;"Metallica";"flamenco";"USA";"1999";4437042;1;"Epic Records";11;10;20812;1892.0;3.84;0.61;0.66;2;24;48
+62;"Eminem";"latin";"Alemania";"2004";3032483;1;"Astralwerks";10;10;34025;3402.5;3.47;0.82;0.75;1;31;40
+63;"Jay-Z";"r&b";"Suecia";"2012";14616462;1;"Believe";4;4;4346;1086.5;3.65;0.62;0.6;7;9;18
+64;"Kanye West";"rap";"USA";"2019";4029815;1;"CD Baby";9;9;6924;769.33;3.94;0.79;0.88;1;18;27
+65;"Kendrick Lamar";"pop";"USA";"2011";3138422;1;"Atlantic Records";8;8;15638;1954.75;3.85;0.64;0.6;4;20;28
+66;"J. Cole";"r&b";"Reino Unido";"1957";6759256;0;"Universal Music";11;10;26514;2410.36;3.89;0.6;0.62;1;25;51
+67;"Stromae";"reggaeton";"USA";"1958";1715185;1;"Independiente";10;9;16721;1672.1;4.05;0.91;0.88;2;21;39
+68;"David Guetta";"flamenco";"USA";"2022";13463868;1;"Island Def Jam";13;13;16773;1290.23;3.85;0.6;0.73;1;28;40
+69;"Calvin Harris";"pop";"Italia";"1960";1119806;1;"Island Def Jam";6;5;20491;3415.17;3.75;0.68;0.65;2;20;30
+70;"Tiësto";"clasica";"Italia";"1990";35173170;0;"Independiente";8;8;20008;2501.0;3.69;0.15;0.27;1;18;32
+71;"Diplo";"indie";"Reino Unido";"1983";12335870;1;"Columbia Records";13;12;41357;3181.31;3.85;0.47;0.54;1;32;65
+72;"Bob Marley";"electronica";"Francia";"1990";2272315;0;"Universal Music";11;11;11341;1031.0;3.82;0.86;0.78;1;19;39
+73;"Reggaeton Kings";"pop";"Francia";"2022";544299;0;"Universal Music";7;7;12739;1819.86;3.63;0.7;0.66;4;15;24
+74;"Luis Fonsi";"r&b";"Reino Unido";"2014";14019174;1;"CD Baby";10;9;10140;1014.0;3.83;0.61;0.58;1;18;30
+75;"Daddy Yankee";"rock";"Reino Unido";"1997";10316767;1;"Merlin";9;9;15140;1682.22;3.75;0.4;0.68;6;25;35
+76;"Ozuna";"r&b";"Suecia";"1988";10945303;1;"Epic Records";13;11;17781;1367.77;3.73;0.68;0.55;4;25;37
+77;"Emma Torres";"r&b";"España";"1988";4435643;0;"Warner Bros Records";11;9;17076;1552.36;3.71;0.64;0.57;3;14;52
+78;"María Johnson";"electronica";"España";"2020";240787;1;"Independiente";13;12;31024;2386.46;3.7;0.76;0.8;2;27;50
+79;"David Stone";"indie";"España";"1983";1341678;0;"Atlantic Records";11;10;9003;818.45;4.01;0.38;0.57;1;15;28
+80;"Francisco Stone";"pop";"España";"1985";379450;1;"Warner Bros Records";10;9;19541;1954.1;3.99;0.6;0.55;4;23;35
+81;"Gabriel Torres";"electronica";"España";"2004";5975588;0;"Astralwerks";15;15;31043;2069.53;3.95;0.77;0.82;1;32;67
+82;"Miguel Torres";"reggaeton";"Suecia";"1968";2938903;0;"CD Baby";10;8;24809;2480.9;3.94;0.94;0.84;1;21;43
+83;"David Rodríguez";"pop";"Francia";"1963";1215456;0;"Atlantic Records";13;13;27106;2085.08;3.81;0.68;0.66;2;29;45
+84;"Alex Green";"flamenco";"Alemania";"1980";207004;0;"Independiente";11;10;30475;2770.45;3.77;0.57;0.65;1;24;46
+85;"José Johnson";"reggaeton";"USA";"1992";1127465;0;"Columbia Records";13;11;21505;1654.23;3.6;0.88;0.81;1;34;29
+86;"Diego Johnson";"rap";"España";"1963";1189942;0;"Merlin";7;7;8913;1273.29;3.52;0.83;0.82;1;13;30
+87;"Alex Fernández";"rap";"España";"1994";3933627;0;"Independiente";9;9;16507;1834.11;3.93;0.79;0.82;2;22;32
+88;"Carlos González";"rap";"España";"1992";3054668;1;"Epic Records";9;8;10797;1199.67;3.9;0.74;0.83;1;13;31
+89;"Sofia González";"electronica";"España";"2018";6556755;0;"Believe";10;10;18638;1863.8;3.79;0.73;0.79;2;22;28
+90;"Juan López";"reggaeton";"Italia";"2005";1927198;0;"DistroKid";8;6;12353;1544.13;3.85;0.96;0.8;2;15;28
+91;"Francisco Green";"clasica";"Reino Unido";"2023";392117;1;"DistroKid";13;13;29834;2294.92;3.57;0.15;0.25;1;39;40
+92;"David Johnson";"pop";"Argentina";"1975";3757379;0;"Columbia Records";6;4;15842;2640.33;3.79;0.63;0.53;1;9;32
+93;"Laura Green";"indie";"Reino Unido";"1988";4301178;0;"CD Baby";9;9;15306;1700.67;3.7;0.34;0.6;1;21;31
+94;"José Rodríguez";"flamenco";"Argentina";"2003";2481662;0;"Astralwerks";7;7;10811;1544.43;3.79;0.57;0.66;2;16;16
+95;"Francisco Torres";"reggaeton";"Italia";"1950";4431669;0;"Epic Records";9;9;15189;1687.67;3.65;0.93;0.85;2;22;31
+96;"Gabriel Fernández";"clasica";"Suecia";"2006";2052444;0;"Epic Records";10;7;21340;2134.0;3.67;0.07;0.21;5;15;50
+97;"Sofia Smith";"reggaeton";"Italia";"1992";2229036;1;"Independiente";8;7;17246;2155.75;3.81;0.93;0.77;4;18;33
+98;"Diego Rodríguez";"rap";"Francia";"1968";1683442;1;"Merlin";7;7;14030;2004.29;3.97;0.76;0.82;9;23;29
+99;"Gabriel González";"clasica";"Reino Unido";"2023";87243;1;"Merlin";13;12;19459;1496.85;3.82;0.14;0.43;1;27;40
+100;"David Johnson";"flamenco";"España";"1950";352502;0;"Independiente";6;5;3553;592.17;3.94;0.65;0.71;7;8;18
+101;"José Brown";"rock";"Francia";"2016";105801;0;"Atlantic Records";7;7;8381;1197.29;4.22;0.38;0.75;8;14;25
+102;"David Torres";"rock";"Méjico";"2021";3045188;0;"Independiente";14;12;20376;1455.43;3.68;0.43;0.83;1;30;42
+103;"Francisco Stone";"latin";"Argentina";"2020";1142190;0;"Atlantic Records";13;12;24482;1883.23;4.09;0.86;0.75;1;21;58
+104;"Emma Smith";"latin";"Francia";"1985";2141311;0;"Columbia Records";11;9;19237;1748.82;4.05;0.84;0.73;2;21;34
+105;"María Johnson";"rap";"España";"1986";7153796;1;"TuneCore";7;6;9647;1378.14;3.73;0.76;0.86;1;14;28
+106;"Carlos González";"rock";"España";"1969";870216;0;"DistroKid";11;11;31229;2839.0;3.91;0.43;0.76;1;26;46
+107;"Juan Rodríguez";"indie";"Canadá";"2003";1594845;0;"Astralwerks";8;8;12165;1520.63;3.78;0.33;0.6;4;21;27
+108;"Gabriel García";"pop";"Canadá";"1995";4236247;1;"Atlantic Records";10;9;23175;2317.5;4.11;0.71;0.59;3;20;49
+109;"Diego Ramírez";"flamenco";"Argentina";"1978";789415;0;"Merlin";17;15;33670;1980.59;4.0;0.64;0.73;1;39;60
+110;"David Smith";"pop";"España";"2001";250312;0;"Independiente";16;14;29236;1827.25;3.83;0.64;0.61;1;33;62
+111;"Juan Green";"reggaeton";"Argentina";"2000";1036420;0;"Universal Music";7;7;16628;2375.43;3.85;0.92;0.83;1;18;31
+112;"Gabriel Martínez";"flamenco";"España";"1956";537425;1;"Merlin";7;7;13603;1943.29;4.01;0.55;0.63;1;20;32
+113;"Alex González";"indie";"España";"1985";7974850;0;"Independiente";12;12;18645;1553.75;3.86;0.47;0.5;2;22;52
+114;"Juan Johnson";"electronica";"Méjico";"2019";4962661;1;"Independiente";8;7;11534;1441.75;3.97;0.71;0.81;6;16;26
+115;"Diego García";"rap";"USA";"1981";3020482;1;"Warner Bros Records";4;4;7326;1831.5;4.08;0.67;0.79;9;10;11
+116;"David López";"rap";"España";"2022";6164559;0;"Believe";11;9;18024;1638.55;3.48;0.69;0.85;2;23;39
+117;"Miguel Johnson";"indie";"España";"1964";4893906;0;"Believe";9;7;9257;1028.56;4.09;0.41;0.55;2;11;23
+118;"Miguel Smith";"rock";"Italia";"1998";629486;0;"Universal Music";9;9;24230;2692.22;4.11;0.49;0.86;4;21;38
+119;"María Johnson";"clasica";"Francia";"1988";6702440;0;"Universal Music";11;11;23686;2153.27;3.79;0.15;0.32;1;28;47
+120;"Sofia González";"clasica";"Suecia";"1997";2335299;1;"Sony Music";15;13;22353;1490.2;4.16;0.13;0.43;2;24;51
+121;"Francisco Pérez";"flamenco";"Reino Unido";"2008";4952044;0;"Astralwerks";13;13;28543;2195.62;3.89;0.54;0.67;1;31;46
+122;"Miguel Brown";"r&b";"Italia";"2018";6802727;0;"Atlantic Records";9;9;21266;2362.89;3.64;0.64;0.58;1;23;35
+123;"Emma Rodríguez";"clasica";"España";"1961";1158192;1;"Epic Records";4;4;8748;2187.0;4.13;0.13;0.46;12;11;18
+124;"Luis García";"latin";"Canadá";"2013";359776;0;"Independiente";12;12;31002;2583.5;3.64;0.81;0.73;5;34;42
+125;"Ana Green";"indie";"Suecia";"1985";786060;0;"Independiente";6;6;13340;2223.33;3.79;0.41;0.52;1;15;29
+126;"Francisco Fernández";"rock";"España";"2021";1681173;0;"Columbia Records";10;9;18063;1806.3;3.64;0.45;0.79;1;17;38
+127;"María Sánchez";"latin";"USA";"1978";5121489;0;"Columbia Records";5;4;5503;1100.6;3.95;0.81;0.77;1;11;14
+128;"Sofia Torres";"clasica";"España";"1994";5924034;0;"CD Baby";12;10;23708;1975.67;3.82;0.13;0.3;1;28;53
+129;"Ana Sánchez";"indie";"Italia";"1979";30929;1;"Universal Music";12;10;32713;2726.08;3.79;0.46;0.44;1;23;57
+130;"Carlos Rodríguez";"r&b";"Alemania";"2011";2154628;1;"Epic Records";4;4;9600;2400.0;3.8;0.68;0.59;5;9;19
+131;"Emma Rodríguez";"r&b";"Reino Unido";"1987";1630819;1;"Sony Music";5;5;11975;2395.0;3.71;0.68;0.61;2;13;18
+132;"Juan García";"r&b";"España";"2020";763502;1;"Independiente";13;12;15547;1195.92;3.94;0.64;0.56;2;21;54
+133;"Juan Ramírez";"latin";"España";"1986";393041;0;"Warner Bros Records";8;8;8307;1038.38;3.87;0.83;0.74;2;19;22
+134;"Emma Fernández";"pop";"España";"1964";1245725;0;"Universal Music";10;8;18092;1809.2;3.73;0.63;0.63;4;24;36
+135;"José Martínez";"clasica";"USA";"2022";8599363;0;"Independiente";12;10;24972;2081.0;3.92;0.08;0.4;1;20;49
+136;"Miguel Ramírez";"rock";"Canadá";"1978";1181151;0;"Merlin";6;6;10136;1689.33;3.87;0.42;0.8;4;11;28
+137;"Ana Ramírez";"electronica";"Canadá";"1957";2204358;0;"Epic Records";10;10;18042;1804.2;3.67;0.81;0.86;2;21;37
+138;"David López";"rap";"Italia";"1970";3652260;1;"Warner Bros Records";14;12;21348;1524.86;3.77;0.77;0.9;1;31;45
+139;"Ana García";"pop";"Méjico";"1979";1365923;1;"Atlantic Records";8;8;21546;2693.25;3.76;0.63;0.67;2;24;36
+140;"Carlos Green";"latin";"España";"1983";10713394;0;"Columbia Records";7;6;5996;856.57;3.82;0.87;0.77;2;11;25
+141;"Carlos Smith";"rap";"Argentina";"1969";9856029;0;"Independiente";12;12;20623;1718.58;3.75;0.74;0.85;1;26;37
+142;"Diego Sánchez";"rock";"España";"2022";880183;0;"Merlin";11;11;32582;2962.0;3.66;0.5;0.75;1;31;42
+143;"Sofia Torres";"electronica";"Italia";"2013";2072977;0;"DistroKid";9;9;25994;2888.22;3.81;0.72;0.89;1;21;40
+144;"María Rodríguez";"indie";"USA";"2023";1083791;0;"Epic Records";15;13;32250;2150.0;3.67;0.48;0.58;1;30;63
+145;"Gabriel Torres";"electronica";"Alemania";"2006";1015749;0;"Island Def Jam";7;7;23955;3422.14;3.66;0.77;0.76;1;21;33
+146;"María Fernández";"flamenco";"Méjico";"1994";122753;0;"Universal Music";10;10;30446;3044.6;3.51;0.64;0.64;2;29;47
+147;"Laura Fernández";"reggaeton";"España";"1986";2831476;0;"Epic Records";18;15;31621;1756.72;3.68;0.88;0.83;1;39;66
+148;"María Pérez";"r&b";"España";"1982";2105558;0;"Independiente";13;11;36940;2841.54;3.79;0.64;0.56;2;34;51
+149;"David Stone";"flamenco";"USA";"2019";168553;0;"TuneCore";6;6;25068;4178.0;3.62;0.57;0.6;3;21;17
+150;"David Fernández";"indie";"Méjico";"1956";989877;1;"Believe";4;3;10184;2546.0;3.93;0.39;0.5;1;9;18
+151;"María García";"latin";"Méjico";"1980";7176582;0;"Sony Music";12;9;16125;1343.75;3.97;0.79;0.81;5;18;54
+152;"Emma Green";"r&b";"Francia";"1964";831581;0;"Atlantic Records";10;9;21543;2154.3;4.23;0.6;0.59;1;20;44
+153;"Sofia Johnson";"reggaeton";"Italia";"1984";479592;0;"Merlin";6;6;15291;2548.5;3.51;0.88;0.81;3;16;33
+154;"Francisco Rodríguez";"rap";"Alemania";"2015";2026816;0;"Universal Music";13;12;30640;2356.92;3.84;0.77;0.88;4;30;53
+155;"Luis Green";"electronica";"Canadá";"2014";12742110;1;"Astralwerks";11;11;25217;2292.45;3.78;0.74;0.8;1;25;48
+156;"Emma Martínez";"electronica";"Méjico";"2007";841434;0;"TuneCore";6;5;11422;1903.67;4.01;0.78;0.85;2;13;23
+157;"Alex Pérez";"r&b";"España";"1974";3355465;0;"DistroKid";17;16;43404;2553.18;3.98;0.68;0.61;1;39;78
+158;"Juan Pérez";"rap";"Canadá";"2010";4311662;0;"Independiente";6;6;8574;1429.0;3.81;0.76;0.81;1;12;17
+159;"Gabriel García";"flamenco";"Alemania";"1966";823999;0;"Atlantic Records";9;9;20998;2333.11;3.94;0.53;0.69;2;21;37
+160;"María Torres";"rock";"Méjico";"2008";3918246;1;"Atlantic Records";9;8;12304;1367.11;3.74;0.44;0.77;1;16;34
+161;"Diego Sánchez";"reggaeton";"España";"1993";1385568;0;"Universal Music";11;11;14895;1354.09;3.91;0.85;0.84;4;20;31
+162;"Francisco Pérez";"indie";"Argentina";"2012";3011511;0;"Universal Music";6;5;17212;2868.67;3.64;0.42;0.56;1;12;30
+163;"Carlos Johnson";"rap";"Italia";"1961";3021513;0;"Columbia Records";11;10;10340;940.0;3.87;0.83;0.88;4;20;32
+164;"Alex García";"rock";"Italia";"1955";2312155;0;"CD Baby";15;14;43542;2902.8;3.95;0.48;0.71;2;31;63
+165;"Sofia González";"indie";"Francia";"2022";293887;0;"Warner Bros Records";13;13;32488;2499.08;3.78;0.49;0.53;2;30;62
+166;"Miguel Smith";"rock";"Canadá";"1980";5420934;0;"Independiente";15;15;27943;1862.87;3.75;0.48;0.79;1;37;48
+167;"Ana Smith";"latin";"Méjico";"1951";1170430;0;"Believe";13;11;30628;2356.0;3.99;0.84;0.8;2;28;55
+168;"Gabriel Pérez";"r&b";"España";"1988";629296;0;"Believe";10;9;12811;1281.1;3.91;0.65;0.58;3;17;33
+169;"Francisco Stone";"latin";"Francia";"2011";134889;1;"CD Baby";13;12;30728;2363.69;3.79;0.84;0.72;4;30;58
+170;"Laura Sánchez";"clasica";"España";"1952";2691335;0;"Believe";8;7;9838;1229.75;3.76;0.12;0.25;1;19;24
+171;"Alex Ramírez";"pop";"USA";"2013";3405555;0;"Independiente";12;12;32848;2737.33;3.93;0.68;0.65;1;32;58
+172;"Carlos Smith";"rap";"Suecia";"1974";60180;0;"Astralwerks";8;7;20294;2536.75;3.64;0.79;0.88;1;17;38
+173;"Ana Brown";"reggaeton";"USA";"2006";2162891;1;"Warner Bros Records";7;6;11625;1660.71;3.63;0.87;0.87;1;14;32
+174;"Laura González";"rock";"Suecia";"1972";780472;1;"CD Baby";9;7;8976;997.33;3.88;0.46;0.75;1;14;28
+175;"Emma Martínez";"r&b";"Italia";"1982";3118373;0;"Independiente";14;13;34225;2444.64;3.9;0.67;0.53;2;35;63
+176;"Diego López";"electronica";"Suecia";"2009";584812;0;"Independiente";8;7;16546;2068.25;4.0;0.72;0.83;3;24;23
+177;"Luis López";"flamenco";"Argentina";"2000";3532637;1;"Merlin";10;10;19445;1944.5;4.05;0.66;0.66;1;26;36
+178;"Miguel González";"indie";"Italia";"1997";1476876;1;"Sony Music";18;16;49046;2724.78;3.76;0.44;0.43;2;45;80
+179;"Luis Green";"clasica";"Argentina";"1978";8291031;0;"Merlin";11;11;31656;2877.82;3.67;0.19;0.33;1;28;49
+180;"José García";"electronica";"Reino Unido";"1954";453833;0;"Universal Music";10;9;21362;2136.2;3.76;0.77;0.74;1;23;42
+181;"Francisco Fernández";"rap";"Alemania";"1997";1261397;0;"TuneCore";12;12;18684;1557.0;3.78;0.77;0.83;1;26;37
+182;"Alex González";"flamenco";"Alemania";"1962";371332;0;"Believe";12;12;29930;2494.17;4.0;0.57;0.67;3;23;51
+183;"Gabriel Fernández";"pop";"Francia";"1980";7768571;0;"Columbia Records";12;11;17037;1419.75;3.61;0.71;0.57;1;21;39
+184;"Juan González";"indie";"Suecia";"1985";6305001;1;"Atlantic Records";11;10;11807;1073.36;3.76;0.59;0.49;4;23;28
+185;"Carlos Smith";"latin";"España";"1952";904982;1;"Warner Bros Records";9;9;17895;1988.33;3.36;0.81;0.72;2;21;35
+186;"Emma Brown";"clasica";"España";"2020";3246288;1;"Atlantic Records";6;5;7456;1242.67;3.88;0.2;0.37;14;11;23
+187;"José Brown";"rap";"España";"1950";5108452;1;"Independiente";9;9;15276;1697.33;3.96;0.83;0.8;1;19;39
+188;"María Smith";"reggaeton";"Alemania";"1953";2440397;1;"Epic Records";9;9;24193;2688.11;3.8;0.94;0.87;1;27;41
+189;"José Sánchez";"rap";"USA";"1956";2272838;1;"Universal Music";14;14;34029;2430.64;3.63;0.78;0.84;1;37;44
+190;"Sofia Ramírez";"rock";"Suecia";"1963";840631;0;"Island Def Jam";12;12;22262;1855.17;3.82;0.4;0.76;1;25;42
+191;"Ana Fernández";"pop";"Argentina";"1953";303178;1;"DistroKid";11;9;9341;849.18;3.57;0.66;0.56;2;17;31
+192;"Laura Green";"flamenco";"Méjico";"2006";6835369;1;"Island Def Jam";12;10;21939;1828.25;3.76;0.67;0.66;2;27;35
+193;"Ana Ramírez";"reggaeton";"España";"2024";6930323;0;"Island Def Jam";8;6;8905;1113.13;3.96;0.88;0.83;1;13;26
+194;"Sofia Ramírez";"r&b";"España";"2005";3018009;1;"Atlantic Records";9;9;19614;2179.33;3.81;0.64;0.51;1;18;37
+195;"Francisco Fernández";"r&b";"Francia";"1979";1252139;0;"Independiente";4;4;3935;983.75;3.7;0.66;0.54;8;7;11
+196;"Luis González";"flamenco";"Reino Unido";"1990";1298702;0;"Warner Bros Records";11;9;21516;1956.0;3.92;0.67;0.75;2;20;42
+197;"Emma López";"latin";"España";"1961";3893396;0;"CD Baby";16;15;28203;1762.69;3.68;0.85;0.78;2;33;59
+198;"Sofia Pérez";"reggaeton";"Argentina";"1965";6832292;0;"Independiente";14;14;23570;1683.57;3.85;0.9;0.83;1;31;54
+199;"Ana Ramírez";"flamenco";"USA";"1989";6553397;0;"Independiente";8;7;11092;1386.5;3.58;0.55;0.69;1;14;23
+200;"Emma López";"reggaeton";"Francia";"1994";4550686;0;"Epic Records";8;8;13756;1719.5;3.57;0.88;0.8;3;16;40
