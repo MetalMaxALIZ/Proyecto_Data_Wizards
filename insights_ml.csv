@@ -1,0 +1,7 @@
+Modelo,Tipo,Métrica,Resultado
+Reg. Simple,Regresión,R²,-0.0045
+Reg. Múltiple,Regresión,R²,0.0044
+Reg. Logística,Clasificación,Accuracy,0.925
+Árbol de Decisión,Clasificación,Accuracy,0.9075
+KMeans Canciones,Clustering,Inercia (k=4),k=4 clusters
+KMeans Usuarios,Clustering,Inercia (k=5),k=5 clusters
